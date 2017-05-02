@@ -1,0 +1,18 @@
+{
+  "name": "beer-me",
+  "version": "1.0.0",
+  "description": "Library to (not so) randomly pick beers for you.",
+  "homepage": "https://github.com/valeriangalliat/beer-me",
+  "license": "Unlicense",
+  "author": "Valérian Galliat (https://val.codejam.info/)",
+  "scripts": {
+    "prepublish": "npm test",
+    "test": "standard"
+  },
+  "dependencies": {
+    "shuffle-array": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
