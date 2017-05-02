@@ -6,6 +6,8 @@
 
 ## Usage
 
+See [`beers.json`](beers.json).
+
 ```sh
 curl https://raw.githubusercontent.com/valeriangalliat/beer-me/beers/beers.json
 ```
