@@ -37,6 +37,9 @@ The expected format of a beer object is the following:
 }
 ```
 
+For convenience, I added a static version of that list in the
+[`beers`](https://github.com/valeriangalliat/beer-me/tree/beers) branch.
+
 Usage
 -----
 
