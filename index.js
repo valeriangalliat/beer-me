@@ -9,7 +9,7 @@ exports.beerCategories = [
 ]
 
 exports.isActualBeer = beer =>
-  exports.beerCategories.include(beer.category)
+  exports.beerCategories.includes(beer.category)
 
 exports.parseFormat = weight => {
   const matches = weight.match(/^(?:(\d+)x)?([\d.]+)(?:\u00A0| )(ml|L)(?: - (\w+))?$/)
