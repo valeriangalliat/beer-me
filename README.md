@@ -33,7 +33,8 @@ The expected format of a beer object is the following:
     "small": "https://product-images.metro.ca/images/h0b/h4c/8883933675550.jpg",
     "large": "https://product-images.metro.ca/images/h41/h2e/8883934593054.jpg"
   },
-  "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/disco-soleil-kumquats-ipa-strong-beer/p/696859060489"
+  "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/disco-soleil-kumquats-ipa-strong-beer/p/696859060489",
+  "category": "beverages/beer-cider/artisanal-beer-microbrewery"
 }
 ```
 
