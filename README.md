@@ -104,7 +104,7 @@ This is especially useful to filter beers:
 ```js
 const packsOfCans = parsedBeers.filter(beer => beer.format.type === 'cans')
 const packsOfBottles = parsedBeers.filter(beer => beer.format.type === 'bottles')
-const bigPacksOfBottles = packsOfBottles.filter(beer => beer.count >= 24)
+const bigPacksOfBottles = packsOfBottles.filter(beer => beer.format.count >= 24)
 ```
 
 ## Real life example
@@ -120,9 +120,9 @@ const brands = require('./brands') // An array of brand names to pick.
 const set = beers
   .filter(beer.isActualBeer)
   .map(beer.formatify)
-  .filter(beer => beer.type === 'bottles')
-  .filter(beer => beer.count >= 12 && beer.count <= 24)
-  .filter(beer => beer.size < 500)
+  .filter(beer => beer.format.type === 'bottles')
+  .filter(beer => beer.format.count >= 12 && beer.format.count <= 24)
+  .filter(beer => beer.format.size < 500)
   .filter(beer => brands.includes(beer.brand))
 
 const selection = beer.beerMe(set, 48)
