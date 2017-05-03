@@ -12,11 +12,11 @@ exports.isActualBeer = beer =>
   exports.beerCategories.include(beer.category)
 
 exports.parseFormat = weight => {
-  const matches = weight.match(/^(?:(\d+)x)?([\d\.]+)(?:\u00A0| )(ml|L)(?: - (\w+))?$/)
+  const matches = weight.match(/^(?:(\d+)x)?([\d.]+)(?:\u00A0| )(ml|L)(?: - (\w+))?$/)
 
   if (!matches) return {}
 
-  const [ _, count = 1, size, unit, type = 'unknown' ] = matches
+  const [ count = 1, size, unit, type = 'unknown' ] = matches.slice(1)
 
   return {
     count: Number(count),
@@ -31,7 +31,8 @@ exports.formatify = beer =>
 // Pick items from a set of beers until the desired amount of bottles is
 // reached.
 const selectBeers = (beers, desiredBottles) => {
-  let selection = [], bottles = 0
+  let selection = []
+  let bottles = 0
 
   for (let beer of beers) {
     selection.push(beer)
