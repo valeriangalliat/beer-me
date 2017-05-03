@@ -1,6 +1,6 @@
 {
   "name": "beer-me",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Library to (not so) randomly pick beers for you.",
   "homepage": "https://github.com/valeriangalliat/beer-me",
   "license": "Unlicense",
