@@ -30,7 +30,7 @@ exports.formatify = beer =>
 
 // Pick items from a set of beers until the desired amount of bottles is
 // reached.
-const selectBeers = (beers, desiredBottles) => {
+exports.selectBeers = (beers, desiredBottles) => {
   let selection = []
   let bottles = 0
 
@@ -50,5 +50,5 @@ const selectBeers = (beers, desiredBottles) => {
 // There's two passes of `selectBeers` after a sort by pack size to
 // return the minimum amount of extra beers (sorry).
 exports.beerMe = (beers, desiredBottles) =>
-  selectBeers(selectBeers(shuffle(beers), desiredBottles)
+  exports.selectBeers(exports.selectBeers(shuffle(beers), desiredBottles)
     .sort((a, b) => b.count - a.count), desiredBottles)
