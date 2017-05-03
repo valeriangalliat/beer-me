@@ -46,7 +46,7 @@ Usage
 
 ```js
 const beer = require('beer-me')
-const beers = require('./beers')
+const beers = require('./beers').map(beer.formatify)
 
 console.log(beer.beerMe(beers, 48))
 ```
@@ -107,6 +107,8 @@ const packsOfBottles = parsedBeers.filter(beer => beer.format.type === 'bottles'
 const bigPacksOfBottles = packsOfBottles.filter(beer => beer.format.count >= 24)
 ```
 
+This is also needed for the `beerMe` algorithm.
+
 ## Real life example
 
 Get packs of between 12 and 24 bottles (less than 500 ml) of beer from a
@@ -118,8 +120,8 @@ const beers = require('./beers')
 const brands = require('./brands') // An array of brand names to pick.
 
 const set = beers
-  .filter(beer.isActualBeer)
   .map(beer.formatify)
+  .filter(beer.isActualBeer)
   .filter(beer => beer.format.type === 'bottles')
   .filter(beer => beer.format.count >= 12 && beer.format.count <= 24)
   .filter(beer => beer.format.size < 500)

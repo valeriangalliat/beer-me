@@ -36,7 +36,7 @@ exports.selectBeers = (beers, desiredBottles) => {
 
   for (let beer of beers) {
     selection.push(beer)
-    bottles += beer.count
+    bottles += beer.format.count
 
     if (bottles >= desiredBottles) break
   }
@@ -51,4 +51,4 @@ exports.selectBeers = (beers, desiredBottles) => {
 // return the minimum amount of extra beers (sorry).
 exports.beerMe = (beers, desiredBottles) =>
   exports.selectBeers(exports.selectBeers(shuffle(beers), desiredBottles)
-    .sort((a, b) => b.count - a.count), desiredBottles)
+    .sort((a, b) => b.format.count - a.format.count), desiredBottles)
