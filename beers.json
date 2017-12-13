@@ -39,7 +39,7 @@
     "brand": "Budweiser",
     "name": "Blonde Lager",
     "weight": "24x341 ml - bottles",
-    "price": 28,
+    "price": 26.49,
     "image": {
       "small": "https://product-images.metro.ca/images/hc7/h66/8881848811550.jpg",
       "large": "https://product-images.metro.ca/images/hf4/hc1/8881849729054.jpg"
@@ -51,7 +51,7 @@
     "brand": "Coors Light",
     "name": "Light pale Lager",
     "weight": "24x341 ml - bottles",
-    "price": 28,
+    "price": 24.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h5d/ha1/8811419140126.jpg",
       "large": "https://product-images.metro.ca/images/h22/h77/8811420844062.jpg"
@@ -63,7 +63,7 @@
     "brand": "Molson Dry",
     "name": "Lager",
     "weight": "24x341 ml - bottles",
-    "price": 28,
+    "price": 26.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h2d/hb4/8811795906590.jpg",
       "large": "https://product-images.metro.ca/images/h7f/hf6/8811797872670.jpg"
@@ -75,7 +75,7 @@
     "brand": "Labatt Bleue",
     "name": "Pilsner",
     "weight": "24x341 ml - bottles",
-    "price": 28,
+    "price": 26.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h46/h97/8812531351582.jpg",
       "large": "https://product-images.metro.ca/images/h08/h01/8812533219358.jpg"
@@ -87,7 +87,7 @@
     "brand": "Coors Light",
     "name": "Light pale Lager",
     "weight": "30x355 ml - cans",
-    "price": 31.99,
+    "price": 34.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h31/h50/8812607373342.jpg",
       "large": "https://product-images.metro.ca/images/h3b/h90/8812609142814.jpg"
@@ -111,10 +111,10 @@
     "brand": "Coors Light",
     "name": "Light pale Lager",
     "weight": "36x355 ml - cans",
-    "price": 39.99,
+    "price": 41.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h54/h42/8811215519774.jpg",
-      "large": "https://product-images.metro.ca/images/h8a/h24/8811216437278.jpg"
+      "small": "https://product-images.metro.ca/images/hca/ha0/8949958180894.jpg",
+      "large": "https://product-images.metro.ca/images/h9c/h53/8949959032862.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-light-beer/light-pale-lager/p/056327004337",
     "category": "beverages/beer-cider/classic-light-beer"
@@ -135,7 +135,7 @@
     "brand": "Molson Export",
     "name": "Ale",
     "weight": "24x341 ml - bottles",
-    "price": 28,
+    "price": 26.49,
     "image": {
       "small": "https://product-images.metro.ca/images/hc7/h03/8811268571166.jpg",
       "large": "https://product-images.metro.ca/images/h66/hd0/8811270438942.jpg"
@@ -159,10 +159,10 @@
     "brand": "Rickard's",
     "name": "Red Irish style Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h0d/h6f/8881465819166.jpg",
-      "large": "https://product-images.metro.ca/images/h5d/h32/8881466671134.jpg"
+      "small": "https://product-images.metro.ca/images/h14/h4d/8950066315294.jpg",
+      "large": "https://product-images.metro.ca/images/h49/hd4/8950067200030.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/red-irish-style-ale/p/056327672550",
     "category": "beverages/beer-cider/specialty-flavoured-beer"
@@ -183,10 +183,10 @@
     "brand": "Bud Light",
     "name": "Lager",
     "weight": "24x341 ml - bottles",
-    "price": 28,
+    "price": 24.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h68/ha9/8881849073694.jpg",
-      "large": "https://product-images.metro.ca/images/h08/ha7/8881849958430.jpg"
+      "small": "https://product-images.metro.ca/images/h74/hec/8950528081950.jpg",
+      "large": "https://product-images.metro.ca/images/h82/h58/8950594666526.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-light-beer/lager/p/062067567018",
     "category": "beverages/beer-cider/classic-light-beer"
@@ -195,25 +195,13 @@
     "brand": "Budweiser",
     "name": "Prohibition Brew Non-alcoholic beer",
     "weight": "12x355 ml - cans",
-    "price": 14.99,
+    "price": 12.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hc4/hd4/8905943842846.jpg",
       "large": "https://product-images.metro.ca/images/he6/hcb/8905945481246.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/non-alcoholic-beer/non-alcoholic-beer/p/062067090240",
     "category": "beverages/beer-cider/non-alcoholic-beer"
-  },
-  {
-    "brand": "Rickard's",
-    "name": "Taster's® mix variety pack",
-    "weight": "12x341 ml - bottles",
-    "price": 16.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h90/hca/8880749871134.jpg",
-      "large": "https://product-images.metro.ca/images/h8b/h33/8880750788638.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/taster-s-mix-variety-pack/p/056327006980",
-    "category": "beverages/beer-cider/specialty-flavoured-beer"
   },
   {
     "brand": "Molson Export",
@@ -255,7 +243,7 @@
     "brand": "Sapporo",
     "name": "Japanese Lager",
     "weight": "4x500 ml - cans",
-    "price": 8.32,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h35/h0d/8813340917790.jpg",
       "large": "https://product-images.metro.ca/images/h1c/h48/8813342883870.jpg"
@@ -279,7 +267,7 @@
     "brand": "Beck's",
     "name": "German beer",
     "weight": "12x330 ml - bottles",
-    "price": 16.99,
+    "price": 19.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hd8/hbf/8811687116830.jpg",
       "large": "https://product-images.metro.ca/images/h4b/h08/8811689017374.jpg"
@@ -303,7 +291,7 @@
     "brand": "Alexander Keith's",
     "name": "India Pale Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h3f/h35/8811792564254.jpg",
       "large": "https://product-images.metro.ca/images/h55/hbf/8811794464798.jpg"
@@ -315,7 +303,7 @@
     "brand": "Boréale",
     "name": "Sélection variety pack",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h44/hd8/8813256704030.jpg",
       "large": "https://product-images.metro.ca/images/h8a/hbf/8813258276894.jpg"
@@ -327,7 +315,7 @@
     "brand": "Belle Gueule",
     "name": "Summer Mix Pack variety pack",
     "weight": "15x341 ml - bottles",
-    "price": 17.99,
+    "price": 16.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h22/hf0/8812188205086.jpg",
       "large": "https://product-images.metro.ca/images/he3/h1f/8812189941790.jpg"
@@ -341,8 +329,8 @@
     "weight": "4x500 ml - cans",
     "price": 8.79,
     "image": {
-      "small": "https://product-images.metro.ca/images/h83/ha2/8812272156702.jpg",
-      "large": "https://product-images.metro.ca/images/h57/h95/8812274057246.jpg"
+      "small": "https://product-images.metro.ca/images/hb4/hf2/8967381188638.jpg",
+      "large": "https://product-images.metro.ca/images/h59/hb1/8967382204446.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/dutch-lager/p/083741150029",
     "category": "beverages/beer-cider/imported-beer"
@@ -363,10 +351,10 @@
     "brand": "Coors",
     "name": "Banquet Lager",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hac/hb3/8882239602718.jpg",
-      "large": "https://product-images.metro.ca/images/h48/hfa/8882240520222.jpg"
+      "small": "https://product-images.metro.ca/images/hd0/h0d/8950067265566.jpg",
+      "large": "https://product-images.metro.ca/images/hc8/hfd/8950068117534.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/071990000479",
     "category": "beverages/beer-cider/classic-beer"
@@ -399,7 +387,7 @@
     "brand": "Corona",
     "name": "Mexican beer",
     "weight": "6x330 ml - bottles",
-    "price": 12.99,
+    "price": 9.74,
     "image": {
       "small": "https://product-images.metro.ca/images/h0c/h41/8884981301278.jpg",
       "large": "https://product-images.metro.ca/images/h87/h00/8884982251550.jpg"
@@ -411,10 +399,10 @@
     "brand": "Bud Light",
     "name": "Light blonde beer",
     "weight": "30x355 ml - cans",
-    "price": 31.99,
+    "price": 34.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h3e/hc9/8814007287838.jpg",
-      "large": "https://product-images.metro.ca/images/h21/haa/8814009319454.jpg"
+      "small": "https://product-images.metro.ca/images/hc9/h8a/8950518644766.jpg",
+      "large": "https://product-images.metro.ca/images/h3f/h62/8950519595038.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-light-beer/light-blonde-beer/p/062067567469",
     "category": "beverages/beer-cider/classic-light-beer"
@@ -442,6 +430,18 @@
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/blonde-lager/p/062067335037",
     "category": "beverages/beer-cider/classic-beer"
+  },
+  {
+    "brand": "Unibroue",
+    "name": "Collection Unibroue Selection variety pack",
+    "weight": "12x341 ml - bottles",
+    "price": 16.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hf0/hbc/8883965296670.jpg",
+      "large": "https://product-images.metro.ca/images/hc6/h39/8883966148638.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/collection-unibroue-selection-variety-pack/p/772285911905",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Beck's",
@@ -495,7 +495,7 @@
     "brand": "Guinness",
     "name": "Irish draught beer",
     "weight": "4x440 ml - cans",
-    "price": 8.32,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hb8/h87/8813304479774.jpg",
       "large": "https://product-images.metro.ca/images/ha2/hc3/8813306150942.jpg"
@@ -521,8 +521,8 @@
     "weight": "24x355 ml - cans",
     "price": 28,
     "image": {
-      "small": "https://product-images.metro.ca/images/h9f/h3c/8814209269790.jpg",
-      "large": "https://product-images.metro.ca/images/h05/h14/8814211104798.jpg"
+      "small": "https://product-images.metro.ca/images/h08/he9/8950518710302.jpg",
+      "large": "https://product-images.metro.ca/images/h78/hed/8950519627806.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/blonde-lager/p/062067335402",
     "category": "beverages/beer-cider/classic-beer"
@@ -552,10 +552,22 @@
     "category": "beverages/beer-cider/non-alcoholic-beer"
   },
   {
+    "brand": "Tremblay",
+    "name": "Blonde Lager",
+    "weight": "15x341 ml - bottles",
+    "price": 16.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/ha0/h62/8811848794142.jpg",
+      "large": "https://product-images.metro.ca/images/h23/h6c/8811850629150.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/blonde-lager/p/776213000341",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
     "brand": "Kilkenny",
     "name": "Irish Cream Ale",
     "weight": "4x500 ml - cans",
-    "price": 8.32,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hae/hd0/8905897312286.jpg",
       "large": "https://product-images.metro.ca/images/hb3/hde/8905899147294.jpg"
@@ -576,10 +588,22 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
+    "brand": "Labatt Bleue",
+    "name": "Pilsner",
+    "weight": "12x341 ml - bottles",
+    "price": 17.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h98/h93/8881880006686.jpg",
+      "large": "https://product-images.metro.ca/images/h1e/hc3/8881880924190.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/pilsner/p/062067351020",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
     "brand": "Boréale",
     "name": "Rousse amber Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hd9/h4b/8811491950622.jpg",
       "large": "https://product-images.metro.ca/images/hfd/hf1/8811493720094.jpg"
@@ -603,7 +627,7 @@
     "brand": "Heineken",
     "name": "Dutch Lager",
     "weight": "6x330 ml - bottles",
-    "price": 12.99,
+    "price": 10.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h13/h79/8814365835294.jpg",
       "large": "https://product-images.metro.ca/images/hfb/h76/8814367801374.jpg"
@@ -639,7 +663,7 @@
     "brand": "Sleeman",
     "name": "Original Draught Lager",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h61/h67/8872458682398.jpg",
       "large": "https://product-images.metro.ca/images/h50/hc4/8872460714014.jpg"
@@ -660,22 +684,10 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Rickard's",
-    "name": "Red Series Taster's® mix variety pack",
-    "weight": "12x341 ml - bottles",
-    "price": 16.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h4c/hec/8905952952350.jpg",
-      "large": "https://product-images.metro.ca/images/hcb/h6e/8905954590750.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/red-series-taster-s-mix-variety-pack/p/056327011328",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Smithwick's",
     "name": "Irish red Ale",
     "weight": "4x500 ml - cans",
-    "price": 8.32,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h98/h34/8812761088030.jpg",
       "large": "https://product-images.metro.ca/images/h91/hec/8812762824734.jpg"
@@ -687,7 +699,7 @@
     "brand": "Molson Canadian 67",
     "name": "Light beer",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 17.49,
     "image": {
       "small": "https://product-images.metro.ca/images/hd4/h53/8880825171998.jpg",
       "large": "https://product-images.metro.ca/images/heb/h8a/8880826089502.jpg"
@@ -699,7 +711,7 @@
     "brand": "Sleeman",
     "name": "Original Draught Lager",
     "weight": "24x341 ml - bottles",
-    "price": 28,
+    "price": 26.49,
     "image": {
       "small": "https://product-images.metro.ca/images/hbe/h9a/8812299354142.jpg",
       "large": "https://product-images.metro.ca/images/he9/h8f/8812301058078.jpg"
@@ -771,7 +783,7 @@
     "brand": "Heineken",
     "name": "Dutch Lager",
     "weight": "24x330 ml - bottles",
-    "price": 33.99,
+    "price": 36.99,
     "image": {
       "small": "https://product-images.metro.ca/images/ha3/hb4/8813410451486.jpg",
       "large": "https://product-images.metro.ca/images/h66/h58/8813412417566.jpg"
@@ -792,18 +804,6 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Sleeman",
-    "name": "Sélections variety pack",
-    "weight": "12x341 ml - bottles",
-    "price": 16.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/had/hfe/8811514757150.jpg",
-      "large": "https://product-images.metro.ca/images/h3a/hff/8811516723230.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/selections-variety-pack/p/056910290123",
-    "category": "beverages/beer-cider/classic-beer"
-  },
-  {
     "brand": "Labatt Bleue Dry",
     "name": "Strong beer",
     "weight": "24x341 ml - bottles",
@@ -819,7 +819,7 @@
     "brand": "Heineken",
     "name": "Dutch Lager draught keg",
     "weight": "5 L",
-    "price": 29.99,
+    "price": 24.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h1b/hf7/8813159055390.jpg",
       "large": "https://product-images.metro.ca/images/h4e/h92/8813160628254.jpg"
@@ -831,10 +831,10 @@
     "brand": "Coors",
     "name": "Banquet Lager",
     "weight": "12x355 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h18/h43/8934290980894.jpg",
-      "large": "https://product-images.metro.ca/images/h50/hd0/8934291767326.jpg"
+      "small": "https://product-images.metro.ca/images/hc9/h5b/8950100525086.jpg",
+      "large": "https://product-images.metro.ca/images/hd2/hb9/8950101311518.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/071990170370",
     "category": "beverages/beer-cider/classic-beer"
@@ -843,7 +843,7 @@
     "brand": "Creemore Springs",
     "name": "The Creemore Collection variety pack",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h96/hd6/8811920556062.jpg",
       "large": "https://product-images.metro.ca/images/h32/h5d/8811922259998.jpg"
@@ -855,7 +855,7 @@
     "brand": "DAB",
     "name": "German Dortmunder Export",
     "weight": "500 ml - can",
-    "price": 2.69,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/hb9/hc2/8812634439710.jpg",
       "large": "https://product-images.metro.ca/images/h58/hb8/8812636143646.jpg"
@@ -891,7 +891,7 @@
     "brand": "Molson Canadian 67",
     "name": "Light beer",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 17.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h5c/h16/8812347326494.jpg",
       "large": "https://product-images.metro.ca/images/h46/he5/8812349030430.jpg"
@@ -903,7 +903,7 @@
     "brand": "Newcastle",
     "name": "Brown Ale",
     "weight": "6x330 ml - bottles",
-    "price": 11.99,
+    "price": 10.99,
     "image": {
       "small": "https://product-images.metro.ca/images/he1/h41/8812849922078.jpg",
       "large": "https://product-images.metro.ca/images/h6b/hbd/8812851757086.jpg"
@@ -939,7 +939,7 @@
     "brand": "Sleeman",
     "name": "Honey Brown Lager",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hae/h33/8881429512222.jpg",
       "large": "https://product-images.metro.ca/images/h6e/h31/8881430462494.jpg"
@@ -963,7 +963,7 @@
     "brand": "Heineken",
     "name": "Dutch Lager",
     "weight": "6x330 ml - cans",
-    "price": 12.99,
+    "price": 10.99,
     "image": {
       "small": "https://product-images.metro.ca/images/he3/hc3/8812375048222.jpg",
       "large": "https://product-images.metro.ca/images/hda/h4d/8812376948766.jpg"
@@ -977,8 +977,8 @@
     "weight": "4x500 ml - cans",
     "price": 8.49,
     "image": {
-      "small": "https://product-images.metro.ca/images/h82/hc2/8887958503454.jpg",
-      "large": "https://product-images.metro.ca/images/haf/hd8/8887960207390.jpg"
+      "small": "https://product-images.metro.ca/images/h2c/hd3/8910642413598.jpg",
+      "large": "https://product-images.metro.ca/images/h40/heb/8910643363870.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/german-pilsner/p/898373000044",
     "category": "beverages/beer-cider/imported-beer"
@@ -987,7 +987,7 @@
     "brand": "Harp",
     "name": "Irish Lager",
     "weight": "4x500 ml - cans",
-    "price": 8.32,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h35/hce/8813879492638.jpg",
       "large": "https://product-images.metro.ca/images/haa/h79/8813881229342.jpg"
@@ -1011,7 +1011,7 @@
     "brand": "Kronenbourg 1664",
     "name": "Blanc French flavoured beer",
     "weight": "6x330 ml - bottles",
-    "price": 12.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h97/h9a/8811415535646.jpg",
       "large": "https://product-images.metro.ca/images/h75/ha3/8811417174046.jpg"
@@ -1023,7 +1023,7 @@
     "brand": "Belgian Moon",
     "name": "Belgian style wheat ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h83/hba/8905534013470.jpg",
       "large": "https://product-images.metro.ca/images/hdf/h65/8905534930974.jpg"
@@ -1083,7 +1083,7 @@
     "brand": "Michelob Ultra",
     "name": "Light beer",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 17.49,
     "image": {
       "small": "https://product-images.metro.ca/images/ha1/h8e/8813585170462.jpg",
       "large": "https://product-images.metro.ca/images/h52/h50/8813586939934.jpg"
@@ -1107,7 +1107,7 @@
     "brand": "Rickard's",
     "name": "Red Irish style Ale",
     "weight": "6x341 ml - bottles",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hed/h5a/8881431379998.jpg",
       "large": "https://product-images.metro.ca/images/h72/ha8/8881432330270.jpg"
@@ -1131,7 +1131,7 @@
     "brand": "Heineken",
     "name": "Dutch Lager",
     "weight": "24x330 ml - cans",
-    "price": 33.99,
+    "price": 36.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h7e/h23/8813988675614.jpg",
       "large": "https://product-images.metro.ca/images/h1e/h7e/8813990576158.jpg"
@@ -1155,7 +1155,7 @@
     "brand": "Budweiser",
     "name": "Blonde Lager",
     "weight": "473 ml - can",
-    "price": 2.99,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h97/h95/8881869258782.jpg",
       "large": "https://product-images.metro.ca/images/hfb/hf6/8881870143518.jpg"
@@ -1167,7 +1167,7 @@
     "brand": "Boréale",
     "name": "Blonde Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h5c/h38/8812663734302.jpg",
       "large": "https://product-images.metro.ca/images/hfe/h3f/8812665503774.jpg"
@@ -1179,7 +1179,7 @@
     "brand": "Michelob Ultra",
     "name": "Light beer",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 17.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h47/h45/8813896728606.jpg",
       "large": "https://product-images.metro.ca/images/h8c/h80/8813898629150.jpg"
@@ -1191,7 +1191,7 @@
     "brand": "Tuborg",
     "name": "Danish blonde Lager",
     "weight": "4x500 ml - cans",
-    "price": 8.32,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hd6/h4c/8813306052638.jpg",
       "large": "https://product-images.metro.ca/images/h20/ha6/8813308018718.jpg"
@@ -1203,7 +1203,7 @@
     "brand": "Unibroue",
     "name": "Blanche de Chambly white Ale on lees",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hab/hfc/8883922731038.jpg",
       "large": "https://product-images.metro.ca/images/hf9/h58/8883923714078.jpg"
@@ -1215,7 +1215,7 @@
     "brand": "Corona",
     "name": "Mexican beer",
     "weight": "24x330 ml - bottles",
-    "price": 33.99,
+    "price": 36.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hfc/h82/8812722847774.jpg",
       "large": "https://product-images.metro.ca/images/h19/h48/8812724420638.jpg"
@@ -1239,7 +1239,7 @@
     "brand": "Molson Canadian",
     "name": "Lager",
     "weight": "24x341 ml - bottles",
-    "price": 28,
+    "price": 26.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h19/h58/8811215552542.jpg",
       "large": "https://product-images.metro.ca/images/h4e/h3a/8811216470046.jpg"
@@ -1275,7 +1275,7 @@
     "brand": "Alexander Keith's",
     "name": "Red amber Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h5b/he4/8881876860958.jpg",
       "large": "https://product-images.metro.ca/images/h52/hc0/8881877680158.jpg"
@@ -1287,7 +1287,7 @@
     "brand": "Brasseurs du Monde",
     "name": "L'Infusée three-tea white beer",
     "weight": "500 ml - bottle",
-    "price": 4,
+    "price": 4.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h39/h55/8811704090654.jpg",
       "large": "https://product-images.metro.ca/images/he1/h8e/8811705663518.jpg"
@@ -1299,13 +1299,25 @@
     "brand": "Sleeman",
     "name": "Original Draught Lager",
     "weight": "473 ml - can",
-    "price": 3.29,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h93/h28/8812188794910.jpg",
       "large": "https://product-images.metro.ca/images/hc8/hd2/8812190367774.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/original-draught-lager/p/056910201167",
     "category": "beverages/beer-cider/classic-beer"
+  },
+  {
+    "brand": "Boréale",
+    "name": "Rousse amber Ale",
+    "weight": "6x341 ml - bottles",
+    "price": 8.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hb9/he1/8814328414238.jpg",
+      "large": "https://product-images.metro.ca/images/h5b/h24/8814330314782.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/rousse-amber-ale/p/771815233784",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Cidrerie St-Nicolas",
@@ -1323,7 +1335,7 @@
     "brand": "Guinness",
     "name": "Irish draught beer",
     "weight": "8x440 ml - cans",
-    "price": 19.99,
+    "price": 18.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h9b/hec/8812932956190.jpg",
       "large": "https://product-images.metro.ca/images/h91/hac/8812934725662.jpg"
@@ -1347,7 +1359,7 @@
     "brand": "Birra Moretti",
     "name": "Italian lager",
     "weight": "6x330 ml - bottles",
-    "price": 12.49,
+    "price": 10.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h87/h65/8812835504158.jpg",
       "large": "https://product-images.metro.ca/images/hd9/h63/8812837011486.jpg"
@@ -1368,25 +1380,25 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Rickard's",
-    "name": "Taster's® mix variety pack",
-    "weight": "6x341 ml - bottles",
-    "price": 10.99,
+    "brand": "Unibroue",
+    "name": "Maudite strong Ale on lees",
+    "weight": "750 ml - bottle",
+    "price": 5.5,
     "image": {
-      "small": "https://product-images.metro.ca/images/h5b/ha6/8813779746846.jpg",
-      "large": "https://product-images.metro.ca/images/hf8/hb4/8813781516318.jpg"
+      "small": "https://product-images.metro.ca/images/h0f/h58/8812118999070.jpg",
+      "large": "https://product-images.metro.ca/images/h7b/ha3/8812121030686.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/taster-s-mix-variety-pack/p/056327009202",
-    "category": "beverages/beer-cider/specialty-flavoured-beer"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/maudite-strong-ale-on-lees/p/772285031115",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Rickard's",
     "name": "Red Irish style Ale",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hf5/h18/8880774578206.jpg",
-      "large": "https://product-images.metro.ca/images/h16/h4a/8880775430174.jpg"
+      "small": "https://product-images.metro.ca/images/hba/haf/8950064513054.jpg",
+      "large": "https://product-images.metro.ca/images/he6/h97/8950065365022.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/red-irish-style-ale/p/056327009912",
     "category": "beverages/beer-cider/specialty-flavoured-beer"
@@ -1419,10 +1431,10 @@
     "brand": "MadJack",
     "name": "Apple lager",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h51/hb4/8880771989534.jpg",
-      "large": "https://product-images.metro.ca/images/h61/h25/8880772874270.jpg"
+      "small": "https://product-images.metro.ca/images/h53/hae/8950064480286.jpg",
+      "large": "https://product-images.metro.ca/images/h84/h82/8950065397790.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/apple-lager/p/056327009691",
     "category": "beverages/beer-cider/specialty-flavoured-beer"
@@ -1431,7 +1443,7 @@
     "brand": "Kronenbourg 1664",
     "name": "French lager",
     "weight": "6x330 ml - bottles",
-    "price": 12.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hd6/h7c/8812425117726.jpg",
       "large": "https://product-images.metro.ca/images/h3f/h7e/8812426952734.jpg"
@@ -1443,7 +1455,7 @@
     "brand": "St-Ambroise",
     "name": "Premium Taste Pack variety pack",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h94/h09/8812703449118.jpg",
       "large": "https://product-images.metro.ca/images/h58/h53/8812705415198.jpg"
@@ -1464,25 +1476,13 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Brasserie Dieu du Ciel!",
-    "name": "Moralité American IPA strong beer",
-    "weight": "341 ml - bottle",
-    "price": 2.39,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h4d/hbe/8880695017502.jpg",
-      "large": "https://product-images.metro.ca/images/ha6/h61/8880695869470.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/moralite-american-ipa-strong-beer/p/696859060250",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Bitburger",
     "name": "German Pilsner",
     "weight": "4x500 ml - cans",
     "price": 8.49,
     "image": {
-      "small": "https://product-images.metro.ca/images/hf3/ha8/8888379965470.jpg",
-      "large": "https://product-images.metro.ca/images/hc4/h79/8888381669406.jpg"
+      "small": "https://product-images.metro.ca/images/hea/h37/8910689042462.jpg",
+      "large": "https://product-images.metro.ca/images/h78/h22/8910689959966.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/german-pilsner/p/020507000112",
     "category": "beverages/beer-cider/imported-beer"
@@ -1491,7 +1491,7 @@
     "brand": "Les Brasseurs RJ",
     "name": "Blonde d'Achouffe spicy strong beer",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 11.79,
     "image": {
       "small": "https://product-images.metro.ca/images/hf2/hc9/8812749520926.jpg",
       "large": "https://product-images.metro.ca/images/ha5/hfc/8812751552542.jpg"
@@ -1515,7 +1515,7 @@
     "brand": "Miller Genuine Draft",
     "name": "Cold-filtered™ beer",
     "weight": "24x355 ml - bottles",
-    "price": 30.99,
+    "price": 32.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hca/h14/8911943893022.jpg",
       "large": "https://product-images.metro.ca/images/he2/h3c/8911945531422.jpg"
@@ -1548,18 +1548,6 @@
     "category": "beverages/beer-cider/non-alcoholic-beer"
   },
   {
-    "brand": "Moosehead",
-    "name": "Lager",
-    "weight": "15x341 ml - bottles",
-    "price": 16.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h95/h40/8934560137246.jpg",
-      "large": "https://product-images.metro.ca/images/he0/hb6/8934561447966.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/776029702224",
-    "category": "beverages/beer-cider/classic-beer"
-  },
-  {
     "brand": "Beaupré",
     "name": "Carbonated crackling cider",
     "weight": "473 ml",
@@ -1587,7 +1575,7 @@
     "brand": "Moosehead",
     "name": "Lager",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h16/hcd/8812459524126.jpg",
       "large": "https://product-images.metro.ca/images/h44/he3/8812461228062.jpg"
@@ -1599,7 +1587,7 @@
     "brand": "Sleeman",
     "name": "Silver Creek Lager",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hcf/hfb/8813038600222.jpg",
       "large": "https://product-images.metro.ca/images/h22/h85/8813040631838.jpg"
@@ -1620,18 +1608,6 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
-    "brand": "Budweiser",
-    "name": "Prohibition Brew Non-alcoholic beer",
-    "weight": "473 ml - can",
-    "price": 2.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h4d/hfe/8881854480414.jpg",
-      "large": "https://product-images.metro.ca/images/h73/hd0/8881855365150.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/non-alcoholic-beer/non-alcoholic-beer/p/062067090530",
-    "category": "beverages/beer-cider/non-alcoholic-beer"
-  },
-  {
     "brand": "Heineken",
     "name": "Dutch Lager",
     "weight": "710 ml - can",
@@ -1647,7 +1623,7 @@
     "brand": "Belle Gueule",
     "name": "Lager",
     "weight": "6x341 ml - bottles",
-    "price": 7.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/ha9/hab/8814305542174.jpg",
       "large": "https://product-images.metro.ca/images/hc1/h06/8814307180574.jpg"
@@ -1659,7 +1635,7 @@
     "brand": "Creemore Springs",
     "name": "Lager",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h80/h5b/8812796051486.jpg",
       "large": "https://product-images.metro.ca/images/h9a/h97/8812797689886.jpg"
@@ -1680,10 +1656,34 @@
     "category": "beverages/beer-cider/specialty-flavoured-beer"
   },
   {
+    "brand": "Labatt Bleue Dry",
+    "name": "Strong beer",
+    "weight": "740 ml - can",
+    "price": 3.49,
+    "image": {
+      "small": "https://product-images.metro.ca/images/ha9/hb9/8814233321502.jpg",
+      "large": "https://product-images.metro.ca/images/h90/h7d/8814234959902.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/strong-beer/p/062067307706",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
+    "brand": "Modelo",
+    "name": "Mexican beer",
+    "weight": "6x355 ml - bottles",
+    "price": 11.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hb0/h7f/8884974845982.jpg",
+      "large": "https://product-images.metro.ca/images/h5d/h9f/8884975730718.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/mexican-beer/p/7501064196379",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
     "brand": "Unibroue",
     "name": "Blanche de Chambly white beer on lees",
     "weight": "6x341 ml - bottles",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/ha5/he6/8814163918878.jpg",
       "large": "https://product-images.metro.ca/images/h52/h91/8814165884958.jpg"
@@ -1704,6 +1704,18 @@
     "category": "beverages/beer-cider/non-alcoholic-beer"
   },
   {
+    "brand": "Miller Genuine Draft",
+    "name": "Cold-filtered™ beer",
+    "weight": "12x355 ml - bottles",
+    "price": 15.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hbf/h55/8814092419102.jpg",
+      "large": "https://product-images.metro.ca/images/had/hda/8814094123038.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/cold-filtered-beer/p/034100175092",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
     "brand": "Labatt Bleue",
     "name": "Pilsner",
     "weight": "6x355 ml - cans",
@@ -1719,7 +1731,7 @@
     "brand": "Bavaria",
     "name": "Dutch beer",
     "weight": "660 ml - bottle",
-    "price": 3.29,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h85/h6d/8814231486494.jpg",
       "large": "https://product-images.metro.ca/images/h9f/h4b/8814233157662.jpg"
@@ -1731,7 +1743,7 @@
     "brand": "Boréale",
     "name": "Blonde Ale",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hda/hfa/8813767098398.jpg",
       "large": "https://product-images.metro.ca/images/hf2/hfc/8813769064478.jpg"
@@ -1743,7 +1755,7 @@
     "brand": "Dos Equis",
     "name": "Mexican Lager",
     "weight": "12x355 ml - bottles",
-    "price": 18.99,
+    "price": 21.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h9f/h71/8814213267486.jpg",
       "large": "https://product-images.metro.ca/images/h82/hd3/8814214971422.jpg"
@@ -1764,22 +1776,10 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Rickard's",
-    "name": "Dark English style Porter",
-    "weight": "473 ml - can",
-    "price": 2.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h40/h1e/8813214105630.jpg",
-      "large": "https://product-images.metro.ca/images/h26/hdf/8813215940638.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/dark-english-style-porter/p/056327006034",
-    "category": "beverages/beer-cider/specialty-flavoured-beer"
-  },
-  {
     "brand": "Sapporo",
     "name": "Japanese Lager",
     "weight": "650 ml - can",
-    "price": 4.79,
+    "price": 3.88,
     "image": {
       "small": "https://product-images.metro.ca/images/h26/h22/8881470079006.jpg",
       "large": "https://product-images.metro.ca/images/h46/h0a/8881470963742.jpg"
@@ -1827,19 +1827,19 @@
     "brand": "Alchimiste",
     "name": "Beer variety Mix-Pack™",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hf9/h7f/8813867532318.jpg",
       "large": "https://product-images.metro.ca/images/h3f/h2d/8813869662238.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/beer-variety-mix-pack-/p/180519000231",
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/beer-variety-mix-pack/p/180519000231",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Dominus Vobiscum",
     "name": "Blanche wheat beer brewed with spices",
     "weight": "500 ml - bottle",
-    "price": 4.99,
+    "price": 4.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h34/h69/8814017118238.jpg",
       "large": "https://product-images.metro.ca/images/h1f/h4c/8814018625566.jpg"
@@ -1872,16 +1872,40 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
+    "brand": "Pabst Blue Ribbon",
+    "name": "Lager",
+    "weight": "710 ml - can",
+    "price": 3.49,
+    "image": {
+      "small": "https://product-images.metro.ca/images/he7/h94/8911966896158.jpg",
+      "large": "https://product-images.metro.ca/images/h07/h97/8911968796702.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/056910403714",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
     "brand": "Rickard's",
     "name": "White Belgian style wheat Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hc8/h40/8813255327774.jpg",
-      "large": "https://product-images.metro.ca/images/h1b/h96/8813257293854.jpg"
+      "small": "https://product-images.metro.ca/images/h73/hb8/8949966700574.jpg",
+      "large": "https://product-images.metro.ca/images/ha3/h91/8949967683614.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/white-belgian-style-wheat-ale/p/056327004214",
     "category": "beverages/beer-cider/specialty-flavoured-beer"
+  },
+  {
+    "brand": "Brasserie Les 2 Frères",
+    "name": "Beer assortment with 2 beer glasses",
+    "weight": "6x500 ml - bottles",
+    "price": 24.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hd9/h45/8915006324766.jpg",
+      "large": "https://product-images.metro.ca/images/he0/h81/8915008028702.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/beer-assortment-with-2-beer-glasses/p/696352000302",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Corona",
@@ -1911,7 +1935,7 @@
     "brand": "St-Ambroise",
     "name": "India Pale Ale",
     "weight": "473 ml - can",
-    "price": 2.5,
+    "price": 2.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h19/h40/8880827039774.jpg",
       "large": "https://product-images.metro.ca/images/h2b/h5c/8880827990046.jpg"
@@ -1923,7 +1947,7 @@
     "brand": "Belle Gueule",
     "name": "Pilsner",
     "weight": "473 ml - can",
-    "price": 2.49,
+    "price": 2,
     "image": {
       "small": "https://product-images.metro.ca/images/hc3/h14/8883928760350.jpg",
       "large": "https://product-images.metro.ca/images/h85/hf4/8883929612318.jpg"
@@ -1947,7 +1971,7 @@
     "brand": "Granville Island Brewing",
     "name": "Infamous IPA™ strong beer",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hae/hd4/8883950944286.jpg",
       "large": "https://product-images.metro.ca/images/h4e/h1c/8883951796254.jpg"
@@ -1959,7 +1983,7 @@
     "brand": "St-Ambroise",
     "name": "India Pale Ale",
     "weight": "6x341 ml - bottles",
-    "price": 11.79,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h4a/h14/8880778412062.jpg",
       "large": "https://product-images.metro.ca/images/ha9/hcc/8880779264030.jpg"
@@ -1995,7 +2019,7 @@
     "brand": "Heineken",
     "name": "Dutch Lager",
     "weight": "500 ml - can",
-    "price": 3.49,
+    "price": 2.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hb8/hcf/8811577344030.jpg",
       "large": "https://product-images.metro.ca/images/h03/hc4/8811579179038.jpg"
@@ -2009,8 +2033,8 @@
     "weight": "4x450 ml - bottles",
     "price": 12.79,
     "image": {
-      "small": "https://product-images.metro.ca/images/h4c/h63/8885006991390.jpg",
-      "large": "https://product-images.metro.ca/images/h06/he0/8885007908894.jpg"
+      "small": "https://product-images.metro.ca/images/h47/h96/8967383056414.jpg",
+      "large": "https://product-images.metro.ca/images/h5d/hbf/8967384039454.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/lager/p/8716700015986",
     "category": "beverages/beer-cider/imported-beer"
@@ -2043,7 +2067,7 @@
     "brand": "Les Brasseurs RJ",
     "name": "The Master Brewer's Collection variety pack",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 11.79,
     "image": {
       "small": "https://product-images.metro.ca/images/h27/hee/8883435143198.jpg",
       "large": "https://product-images.metro.ca/images/h29/haf/8883436126238.jpg"
@@ -2055,7 +2079,7 @@
     "brand": "St-Ambroise",
     "name": "Apricot Wheat Ale",
     "weight": "473 ml - can",
-    "price": 2.5,
+    "price": 2.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h84/h71/8880773890078.jpg",
       "large": "https://product-images.metro.ca/images/h15/h9a/8880774742046.jpg"
@@ -2064,22 +2088,10 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Rickard's",
-    "name": "Dark English style Porter",
-    "weight": "12x341 ml - bottles",
-    "price": 16.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hc3/hd5/8811249008670.jpg",
-      "large": "https://product-images.metro.ca/images/h4a/h1e/8811250778142.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/dark-english-style-porter/p/056327005754",
-    "category": "beverages/beer-cider/specialty-flavoured-beer"
-  },
-  {
     "brand": "Boréale",
     "name": "Dorée honey Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h38/h2f/8812711182366.jpg",
       "large": "https://product-images.metro.ca/images/h06/h32/8812713017374.jpg"
@@ -2088,16 +2100,16 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Pabst Blue Ribbon",
-    "name": "Lager",
-    "weight": "20x355 ml - cans",
-    "price": 24.99,
+    "brand": "Guinness",
+    "name": "Irish Beer Discovery variety pack",
+    "weight": "8x440 ml - cans",
+    "price": 18.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hc7/hee/8881495212062.jpg",
-      "large": "https://product-images.metro.ca/images/h48/hc5/8881496129566.jpg"
+      "small": "https://product-images.metro.ca/images/h62/hf6/8919700373534.jpg",
+      "large": "https://product-images.metro.ca/images/h5e/ha8/8919702208542.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/056910413201",
-    "category": "beverages/beer-cider/classic-beer"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/irish-beer-discovery-variety-pack/p/5000213019702",
+    "category": "beverages/beer-cider/imported-beer"
   },
   {
     "brand": "Les Trois Mousquetaires",
@@ -2112,6 +2124,198 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
+    "brand": "Pabst Blue Ribbon",
+    "name": "Lager",
+    "weight": "20x355 ml - cans",
+    "price": 24.49,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hc7/hee/8881495212062.jpg",
+      "large": "https://product-images.metro.ca/images/h48/hc5/8881496129566.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/056910413201",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
+    "brand": "Le Castor",
+    "name": "Yakima IPA beer",
+    "weight": "600 ml - bottle",
+    "price": 6.79,
+    "image": {
+      "small": "https://product-images.metro.ca/images/ha4/ha4/8957485940766.jpg",
+      "large": "https://product-images.metro.ca/images/h2b/h49/8957487710238.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/yakima-ipa-beer/p/627843179955",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Le Trèfle Noir",
+    "name": "Hurlevent dubbel strong beer",
+    "weight": "500 ml - bottle",
+    "price": 4.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/ha9/h25/8925455908894.jpg",
+      "large": "https://product-images.metro.ca/images/h36/hb4/8925457285150.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/hurlevent-dubbel-strong-beer/p/627843208402",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Le Castor",
+    "name": "Organic India Session Ale",
+    "weight": "600 ml - bottle",
+    "price": 5.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/he8/h15/8957613211678.jpg",
+      "large": "https://product-images.metro.ca/images/hef/h72/8957614981150.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/organic-india-session-ale/p/816514000043",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Le Castor",
+    "name": "Organic oatmeal stout",
+    "weight": "600 ml - bottle",
+    "price": 5.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h99/h53/8957570875422.jpg",
+      "large": "https://product-images.metro.ca/images/h47/ha5/8957572513822.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/organic-oatmeal-stout/p/627843179894",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Le Bilboquet",
+    "name": "L'Affriolante honey and spice beer",
+    "weight": "500 ml - bottle",
+    "price": 5.49,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h38/h5d/8888407818270.jpg",
+      "large": "https://product-images.metro.ca/images/hb7/hdb/8888409325598.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/l-affriolante-honey-and-spice-beer/p/628190000305",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Simple Malt",
+    "name": "Saison Belge strong ale",
+    "weight": "500 ml - bottle",
+    "price": 4.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hce/he1/8883414925342.jpg",
+      "large": "https://product-images.metro.ca/images/h6d/h18/8883416432670.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/saison-belge-strong-ale/p/629151322313",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Sol",
+    "name": "Mexican beer",
+    "weight": "24x330 ml - bottles",
+    "price": 34.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hcc/h71/8814278934558.jpg",
+      "large": "https://product-images.metro.ca/images/h9f/h5b/8814280638494.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/mexican-beer/p/7501049930240",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
+    "brand": "Michel Jodoin",
+    "name": "Rosé Vista Bella non-alcoholic sparkling apple must",
+    "weight": "750 ml",
+    "price": 5.49,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h06/heb/8905772662814.jpg",
+      "large": "https://product-images.metro.ca/images/he1/hb8/8905774301214.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/rose-vista-bella-non-alcoholic-sparkling-apple-must/p/609780010027",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
+    "brand": "Kronenbourg 1664",
+    "name": "French lager",
+    "weight": "12x330 ml - bottles",
+    "price": 19.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hfc/h72/8813459472414.jpg",
+      "large": "https://product-images.metro.ca/images/h3f/hbe/8813461307422.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/french-lager/p/3080216035048",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
+    "brand": "Domaine de Lavoie",
+    "name": "Ace Bulles d'Automne Quebec sparkling cider",
+    "weight": "750 ml",
+    "price": 10.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h92/he7/8926497996830.jpg",
+      "large": "https://product-images.metro.ca/images/h5b/h7f/8926499242014.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/quebec-sparkling-cider/p/827924039455",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
+    "brand": "Kronenbourg 1664",
+    "name": "French lager",
+    "weight": "4x500 ml - cans",
+    "price": 9.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hab/hd0/8941535952926.jpg",
+      "large": "https://product-images.metro.ca/images/h9c/he8/8941537263646.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/french-lager/p/3080216024806",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
+    "brand": "Kronenbourg 1664",
+    "name": "French lager",
+    "weight": "500 ml - can",
+    "price": 2.99,
+    "image": {
+      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
+      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/french-lager/p/3080210004491",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
+    "brand": "Labatt Bleue Dry",
+    "name": "Strong beer",
+    "weight": "1.18 L - bottle",
+    "price": 4.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hc4/h57/8813478543390.jpg",
+      "large": "https://product-images.metro.ca/images/hbf/h47/8813480509470.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/strong-beer/p/062067874819",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
+    "brand": "St-Ambroise",
+    "name": "Oak Aged Pale Ale",
+    "weight": "6x341 ml - bottles",
+    "price": 9.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h93/h9d/8880795549726.jpg",
+      "large": "https://product-images.metro.ca/images/h19/h82/8880796467230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/oak-aged-pale-ale/p/055480001054",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Rickard's",
+    "name": "Summer Taster™ mix variety pack",
+    "weight": "12x341 ml - bottles",
+    "price": 15.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h3f/h3d/8949964636190.jpg",
+      "large": "https://product-images.metro.ca/images/hba/hfc/8949965750302.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/summer-taster-mix-variety-pack/p/056327009769",
+    "category": "beverages/beer-cider/specialty-flavoured-beer"
+  },
+  {
     "brand": "Brasserie Dieu du Ciel!",
     "name": "Corne du Diable India Pale Ale beer",
     "weight": "341 ml - bottle",
@@ -2124,88 +2328,16 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Rickard's",
-    "name": "Summer Taster™ mix variety pack",
-    "weight": "12x341 ml - bottles",
-    "price": 16.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/he7/h91/8812712165406.jpg",
-      "large": "https://product-images.metro.ca/images/h48/hda/8812714000414.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/summer-taster-mix-variety-pack/p/056327009769",
-    "category": "beverages/beer-cider/specialty-flavoured-beer"
-  },
-  {
-    "brand": "St-Ambroise",
-    "name": "Oak Aged Pale Ale",
-    "weight": "6x341 ml - bottles",
-    "price": 11.79,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h93/h9d/8880795549726.jpg",
-      "large": "https://product-images.metro.ca/images/h19/h82/8880796467230.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/oak-aged-pale-ale/p/055480001054",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
-    "brand": "Labatt Bleue Dry",
-    "name": "Strong beer",
-    "weight": "1.18 L - bottle",
-    "price": 6.49,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hc4/h57/8813478543390.jpg",
-      "large": "https://product-images.metro.ca/images/hbf/h47/8813480509470.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/strong-beer/p/062067874819",
-    "category": "beverages/beer-cider/classic-beer"
-  },
-  {
     "brand": "Rolling Rock",
     "name": "Extra Pale Lager",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 14.99,
     "image": {
-      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
-      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+      "small": "https://product-images.metro.ca/images/h93/h81/8951410098206.jpg",
+      "large": "https://product-images.metro.ca/images/h41/h9d/8951411867678.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/extra-pale-lager/p/062067397028",
     "category": "beverages/beer-cider/classic-beer"
-  },
-  {
-    "brand": "Le Castor Brewing Company",
-    "name": "Organic Wee Heavy bourbon beer",
-    "weight": "660 ml - bottle",
-    "price": 11.99,
-    "image": {
-      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
-      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/organic-wee-heavy-bourbon-beer/p/627843179900",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
-    "brand": "Le Castor Brewing Company",
-    "name": "Organic oatmeal stout beer",
-    "weight": "600 ml - bottle",
-    "price": 5.99,
-    "image": {
-      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
-      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/organic-oatmeal-stout-beer/p/627843179894",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
-    "brand": "MiSangrina",
-    "name": "Sangria flavoured alcoholic sparkling cider cocktail",
-    "weight": "473 ml",
-    "price": 2.49,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h1a/hb2/8813692649502.jpg",
-      "large": "https://product-images.metro.ca/images/h51/ha5/8813694222366.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/wines-cocktails-coolers/cocktails-other-wines/sangria-flavoured-alcoholic-sparkling-cider-cocktail/p/067311718406",
-    "category": "beverages/wines-cocktails-coolers/cocktails-other-wines"
   },
   {
     "brand": "Simple Malt",
@@ -2232,58 +2364,22 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Simple Malt",
-    "name": "Vin d'orge extra strong Ale",
-    "weight": "500 ml - bottle",
-    "price": 5.99,
+    "brand": "Krombacher",
+    "name": "German non-alcoholic Weizen",
+    "weight": "6x330 ml - bottles",
+    "price": 11.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h1a/hfd/8884988018718.jpg",
-      "large": "https://product-images.metro.ca/images/h3f/h3d/8884988903454.jpg"
+      "small": "https://product-images.metro.ca/images/h7e/h68/8947303055390.jpg",
+      "large": "https://product-images.metro.ca/images/hfd/h01/8947303874590.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/vin-d-orge-extra-strong-ale/p/629151305101",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
-    "brand": "Domaine Lafrance",
-    "name": "Cuvée 525 organic still cider",
-    "weight": "750 ml",
-    "price": 10.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h95/had/8873733455902.jpg",
-      "large": "https://product-images.metro.ca/images/h67/hcc/8873735159838.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/cuvee-525-organic-still-cider/p/841125071373",
-    "category": "beverages/beer-cider/cider"
-  },
-  {
-    "brand": "Sol",
-    "name": "Mexican beer",
-    "weight": "24x330 ml - bottles",
-    "price": 33.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hcc/h71/8814278934558.jpg",
-      "large": "https://product-images.metro.ca/images/h9f/h5b/8814280638494.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/mexican-beer/p/7501049930240",
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/german-non-alcoholic-weizen/p/4008287764345",
     "category": "beverages/beer-cider/imported-beer"
-  },
-  {
-    "brand": "Simple Malt",
-    "name": "Saison Belge strong ale",
-    "weight": "500 ml - bottle",
-    "price": 4.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hce/he1/8883414925342.jpg",
-      "large": "https://product-images.metro.ca/images/h6d/h18/8883416432670.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/saison-belge-strong-ale/p/629151322313",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Kronenbourg 1664",
     "name": "Blanc flavoured wheat beer",
     "weight": "4x500 ml - cans",
-    "price": 8.32,
+    "price": 9.99,
     "image": {
       "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
       "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
@@ -2292,40 +2388,28 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
-    "brand": "Kronenbourg 1664",
-    "name": "French lager",
-    "weight": "4x500 ml - cans",
-    "price": 8.32,
+    "brand": "Brasserie Dieu du Ciel!",
+    "name": "Solstice d'été raspberry sour wheat Ale",
+    "weight": "341 ml - bottle",
+    "price": 3.19,
     "image": {
-      "small": "https://product-images.metro.ca/images/hab/hd0/8941535952926.jpg",
-      "large": "https://product-images.metro.ca/images/h9c/he8/8941537263646.jpg"
+      "small": "https://product-images.metro.ca/images/h1e/h8a/8883933741086.jpg",
+      "large": "https://product-images.metro.ca/images/h4f/h5e/8883934658590.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/french-lager/p/3080216024806",
-    "category": "beverages/beer-cider/imported-beer"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/solstice-d-ete-raspberry-sour-wheat-ale/p/736211560261",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "MadJack",
-    "name": "Hard Core strong apple lager",
-    "weight": "710 ml - can",
-    "price": 4.49,
+    "brand": "Molson Canadian",
+    "name": "Lager",
+    "weight": "12x355 ml - bottles",
+    "price": 18.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/ha3/h23/8941530513438.jpg",
-      "large": "https://product-images.metro.ca/images/h83/h34/8941532282910.jpg"
+      "small": "https://product-images.metro.ca/images/h3f/hd9/8950126641182.jpg",
+      "large": "https://product-images.metro.ca/images/h97/hfd/8950127362078.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/hard-core-strong-apple-lager/p/056327011700",
-    "category": "beverages/beer-cider/specialty-flavoured-beer"
-  },
-  {
-    "brand": "MadJack",
-    "name": "Hard Core and Suckerpunch strong lager mixer pack",
-    "weight": "8x236 ml - cans",
-    "price": 10.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h2f/h41/8941467729950.jpg",
-      "large": "https://product-images.metro.ca/images/hfc/h83/8941469630494.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/hard-core-and-suckerpunch-strong-lager-mixer-pack/p/056327011670",
-    "category": "beverages/beer-cider/specialty-flavoured-beer"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/056327011557",
+    "category": "beverages/beer-cider/classic-beer"
   },
   {
     "brand": "Boréale",
@@ -2340,15 +2424,219 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "MadJack",
-    "name": "Suckerpunch strong lemon lager",
-    "weight": "710 ml - can",
-    "price": 4.49,
+    "brand": "Boréale",
+    "name": "Strong India Pale Ale",
+    "weight": "6x355 ml - cans",
+    "price": 8.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hed/hd6/8944109191198.jpg",
+      "large": "https://product-images.metro.ca/images/h7f/hc9/8944110698526.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/strong-india-pale-ale/p/771815823701",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Brasseurs du Monde",
+    "name": "Noire Irish inspired Stout",
+    "weight": "355 ml - can",
+    "price": 1.65,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h49/h5f/8942077378590.jpg",
+      "large": "https://product-images.metro.ca/images/h1c/hd4/8942079082526.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/noire-irish-inspired-stout/p/629059105735",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Molson Export",
+    "name": "Ale",
+    "weight": "12x355 ml - bottles",
+    "price": 18.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hc2/h1e/8950123200542.jpg",
+      "large": "https://product-images.metro.ca/images/hd7/h83/8950124019742.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/ale/p/056327011779",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
+    "brand": "Rickard's",
+    "name": "Taster's® mix variety pack",
+    "weight": "12x341 ml - bottles",
+    "price": 15.99,
     "image": {
       "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
       "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
     },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/taster-s-mix-variety-pack/p/056327011946",
+    "category": "beverages/beer-cider/specialty-flavoured-beer"
+  },
+  {
+    "brand": "Selection",
+    "name": "Lager",
+    "weight": "12x355 ml - cans",
+    "price": 6.49,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h23/h32/8975582035998.jpg",
+      "large": "https://product-images.metro.ca/images/hc9/hf1/8975583805470.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/lager/p/059749908399",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Microbrasserie Le Grimoire",
+    "name": "Révolte blonde beer",
+    "weight": "500 ml - bottle",
+    "price": 5.69,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hdd/h58/8939545198622.jpg",
+      "large": "https://product-images.metro.ca/images/hbf/hc3/8939546640414.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/revolte-blonde-beer/p/811343003159",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Farnham Ale & Lager",
+    "name": "64 India Pale Ale",
+    "weight": "473 ml - can",
+    "price": 2.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h8c/hd5/8957490724894.jpg",
+      "large": "https://product-images.metro.ca/images/h6b/hee/8957492428830.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/64-india-pale-ale/p/627843258629",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Farnham Ale & Lager",
+    "name": "27 Pilsner",
+    "weight": "473 ml - can",
+    "price": 2.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h60/h5b/8957599514654.jpg",
+      "large": "https://product-images.metro.ca/images/h96/hd1/8957601218590.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/27-pilsner/p/627843258612",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Farnham Ale & Lager",
+    "name": "35 Bitter",
+    "weight": "473 ml - can",
+    "price": 2.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h92/hcd/8957486333982.jpg",
+      "large": "https://product-images.metro.ca/images/h8d/hbf/8957488168990.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/35-bitter/p/627843258599",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Domaine Pinnacle",
+    "name": "Récolte tardive cider",
+    "weight": "375 ml",
+    "price": 9.99,
+    "image": {
+      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
+      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/recolte-tardive-cider/p/841125063750",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
+    "brand": "Brasseurs du Monde",
+    "name": "L'Écurieux nut brown Ale",
+    "weight": "2x500 ml - bottles",
+    "price": 24.99,
+    "image": {
+      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
+      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/l-ecurieux-nut-brown-ale/p/629059106541",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Rickard's",
+    "name": "3 flavours variety pack #7",
+    "weight": "24x341 ml",
+    "price": 32.99,
+    "image": {
+      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
+      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/3-flavours-variety-pack-7/p/056327011953",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Goose Island",
+    "name": "Four Star Pilsner",
+    "weight": "6x341 ml - bottles",
+    "price": 12.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hb6/h00/8951398563870.jpg",
+      "large": "https://product-images.metro.ca/images/hc3/h9d/8951400333342.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/four-star-pilsner/p/062067113123",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Goose Island",
+    "name": "Four Star Pilsner",
+    "weight": "473 ml - can",
+    "price": 3.49,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h7b/h63/8957658431518.jpg",
+      "large": "https://product-images.metro.ca/images/h0e/h18/8957660266526.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/four-star-pilsner/p/062067113147",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "McKeown",
+    "name": "Bone Dry cranberry crackling carbonated cider",
+    "weight": "4x355 ml - cans",
+    "price": 8.99,
+    "image": {
+      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
+      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/bone-dry-cranberry-crackling-carbonated-cider/p/841125073483",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
+    "brand": "McKeown",
+    "name": "Pear flavoured crackling carbonated cider",
+    "weight": "4x355 ml - cans",
+    "price": 8.99,
+    "image": {
+      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
+      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/pear-flavoured-crackling-carbonated-cider/p/841125073506",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
+    "brand": "MadJack",
+    "name": "Suckerpunch strong lemon lager",
+    "weight": "710 ml - can",
+    "price": 4,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h94/h63/8951241408542.jpg",
+      "large": "https://product-images.metro.ca/images/h00/h37/8951243178014.jpg"
+    },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/suckerpunch-strong-lemon-lager/p/056327011717",
+    "category": "beverages/beer-cider/specialty-flavoured-beer"
+  },
+  {
+    "brand": "MadJack",
+    "name": "Hard Core and Suckerpunch strong lager mixer pack",
+    "weight": "8x236 ml - cans",
+    "price": 7.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h2f/h41/8941467729950.jpg",
+      "large": "https://product-images.metro.ca/images/hfc/h83/8941469630494.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/hard-core-and-suckerpunch-strong-lager-mixer-pack/p/056327011670",
     "category": "beverages/beer-cider/specialty-flavoured-beer"
   },
   {
@@ -2357,11 +2645,263 @@
     "weight": "500 ml",
     "price": 3.49,
     "image": {
-      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
-      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+      "small": "https://product-images.metro.ca/images/h2d/hf7/8951464558622.jpg",
+      "large": "https://product-images.metro.ca/images/h09/h51/8951466328094.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/lager/p/8593868000050",
     "category": "beverages/beer-cider/imported-beer"
+  },
+  {
+    "brand": "Budweiser",
+    "name": "Anheuser Busch Lager",
+    "weight": "12x355 ml - bottles",
+    "price": 18.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h90/h2a/8975375859742.jpg",
+      "large": "https://product-images.metro.ca/images/h3f/hc3/8975377629214.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/non-alcoholic-beer/anheuser-busch-lager/p/062067335105",
+    "category": "beverages/beer-cider/non-alcoholic-beer"
+  },
+  {
+    "brand": "Creemore Springs",
+    "name": "Batch Lager",
+    "weight": "625 ml - bottle",
+    "price": 4,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h34/h2f/8974967865374.jpg",
+      "large": "https://product-images.metro.ca/images/h2f/hbb/8974968651806.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/batch-lager/p/627005750565",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Beaupré",
+    "name": "Verglas cider",
+    "weight": "500 ml",
+    "price": 7.49,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h2d/he8/8973940654110.jpg",
+      "large": "https://product-images.metro.ca/images/h78/hdc/8973942489118.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/verglas-cider/p/629130800092",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Labatt 50",
+    "name": "Ale",
+    "weight": "473 ml - can",
+    "price": 2.5,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h71/h2e/8957706338334.jpg",
+      "large": "https://product-images.metro.ca/images/hcc/h58/8957708042270.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/ale/p/062067111358",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
+    "brand": "Mad & Nosiy Brewing",
+    "name": "Lagared Ale",
+    "weight": "473 ml - can",
+    "price": 2.22,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hb7/h53/8957426860062.jpg",
+      "large": "https://product-images.metro.ca/images/h9b/hf1/8957428465694.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/lagared-ale/p/627005534011",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Molson Export",
+    "name": "Ale",
+    "weight": "6x355 ml - bottles",
+    "price": 11.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h84/hea/8957708173342.jpg",
+      "large": "https://product-images.metro.ca/images/hb7/h46/8957710008350.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/ale/p/056327011786",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
+    "brand": "Murphy's",
+    "name": "Irish Stout",
+    "weight": "4x440 ml - cans",
+    "price": 10.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h4c/h37/8957707517982.jpg",
+      "large": "https://product-images.metro.ca/images/he1/hd1/8957709287454.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/irish-stout/p/5035766061953",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
+    "brand": "Granville Island Brewing",
+    "name": "West Coast Pale Ale",
+    "weight": "650 ml - bottle",
+    "price": 4,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h50/h7d/8957515169822.jpg",
+      "large": "https://product-images.metro.ca/images/hc6/h14/8957516939294.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/west-coast-pale-ale/p/779446202025",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Peroni",
+    "name": "Italian beer",
+    "weight": "6x330 ml - bottles",
+    "price": 13.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hd6/hbd/8964302241822.jpg",
+      "large": "https://product-images.metro.ca/images/h05/h9c/8964304011294.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/italian-beer/p/8008440522016",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
+    "brand": "Le Petit Pinnacle",
+    "name": "Raspberry sparkling cider",
+    "weight": "473 ml - can",
+    "price": 2.99,
+    "image": {
+      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
+      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/raspberry-sparkling-cider/p/841125091470",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
+    "brand": "Le Petit Pinnacle",
+    "name": "Original sparkling cider",
+    "weight": "473 ml - can",
+    "price": 2.99,
+    "image": {
+      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
+      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/original-sparkling-cider/p/841125081471",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
+    "brand": "Granville Island Brewing",
+    "name": "Lions Summer Ale",
+    "weight": "12x355 ml - cans",
+    "price": 15.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hfe/he2/8962312994846.jpg",
+      "large": "https://product-images.metro.ca/images/h32/h2f/8962314764318.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/lions-summer-ale/p/779446202568",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Granville Island Brewing",
+    "name": "The Summer Mingler variety pack",
+    "weight": "12x341 ml - bottles",
+    "price": 15.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h11/h6d/8962328657950.jpg",
+      "large": "https://product-images.metro.ca/images/h72/h12/8962330558494.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/the-summer-mingler-variety-pack/p/779446182051",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Bud Light",
+    "name": "Radler Grapefruit flavoured lager",
+    "weight": "12x355 ml - cans",
+    "price": 15.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h43/h01/8951195074590.jpg",
+      "large": "https://product-images.metro.ca/images/hc4/h67/8951195893790.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/grapefruit-flavoured-lager/p/062067568121",
+    "category": "beverages/beer-cider/specialty-flavoured-beer"
+  },
+  {
+    "brand": "Peroni",
+    "name": "Italian beer",
+    "weight": "500 ml - can",
+    "price": 3.99,
+    "image": {
+      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
+      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/italian-beer/p/8008440422019",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
+    "brand": "Peroni",
+    "name": "Italian beer",
+    "weight": "12x330ml - bottles",
+    "price": 22.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h00/h67/8967386660894.jpg",
+      "large": "https://product-images.metro.ca/images/hbb/hc1/8967387578398.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/italian-beer/p/8008440122216",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
+    "brand": "Brasseur de Montréal",
+    "name": "Stout light Ale",
+    "weight": "625 ml - bottle",
+    "price": 4,
+    "image": {
+      "small": "https://www.metro.ca/images/shared/small/default--115x115.jpg",
+      "large": "https://www.metro.ca/images/shared/small/default--230x230.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/stout-light-ale/p/629255730014",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Brasseur de Montréal",
+    "name": "Strong IPA",
+    "weight": "625 ml - bottle",
+    "price": 4,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hd8/h88/8962413264926.jpg",
+      "large": "https://product-images.metro.ca/images/h68/hdf/8962414968862.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/strong-ipa/p/629255727014",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Brasseur de Montréal",
+    "name": "Docker Double IPA",
+    "weight": "625 ml - bottle",
+    "price": 4,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hc9/h53/8962248900638.jpg",
+      "large": "https://product-images.metro.ca/images/ha1/hb6/8962250670110.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/docker-double-ipa/p/629255729018",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Bud Light",
+    "name": "Radler Grapefruit flavoured beer",
+    "weight": "473 ml - can",
+    "price": 3.29,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h25/h09/8951326212126.jpg",
+      "large": "https://product-images.metro.ca/images/h1a/hc2/8951327850526.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/grapefruit-flavoured-beer/p/062067568138",
+    "category": "beverages/beer-cider/specialty-flavoured-beer"
+  },
+  {
+    "brand": "Shock Top",
+    "name": "Citrus Radler beer",
+    "weight": "473 ml - can",
+    "price": 3.29,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hf8/h78/8951502241822.jpg",
+      "large": "https://product-images.metro.ca/images/h16/h21/8951503945758.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/citrus-radler-beer/p/062067171109",
+    "category": "beverages/beer-cider/specialty-flavoured-beer"
   },
   {
     "brand": "Molson Export",
@@ -2376,10 +2916,22 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
+    "brand": "Stella Artois",
+    "name": "Belgian Lager",
+    "weight": "24x330 ml - bottles",
+    "price": 36.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h18/hb6/8811566268446.jpg",
+      "large": "https://product-images.metro.ca/images/h17/hb6/8811568103454.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/belgian-lager/p/5410228200611",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
     "brand": "Belle Gueule",
     "name": "Red Lager",
     "weight": "6x341 ml - bottles",
-    "price": 7.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h18/hd7/8814103822366.jpg",
       "large": "https://product-images.metro.ca/images/h6c/h1c/8814105427998.jpg"
@@ -2415,7 +2967,7 @@
     "brand": "Molson Canadian 67",
     "name": "Light beer",
     "weight": "6x341 ml - bottles",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h1a/h87/8813999751198.jpg",
       "large": "https://product-images.metro.ca/images/haf/h82/8814001324062.jpg"
@@ -2427,7 +2979,7 @@
     "brand": "Rickard's",
     "name": "White Belgian style wheat Ale",
     "weight": "6x341 ml - bottles",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h10/h7d/8812679987230.jpg",
       "large": "https://product-images.metro.ca/images/h76/h54/8812681822238.jpg"
@@ -2439,7 +2991,7 @@
     "brand": "Belle Gueule",
     "name": "Lager",
     "weight": "473 ml - can",
-    "price": 2.49,
+    "price": 2,
     "image": {
       "small": "https://product-images.metro.ca/images/h82/h97/8883953860638.jpg",
       "large": "https://product-images.metro.ca/images/h16/h74/8883954712606.jpg"
@@ -2453,8 +3005,8 @@
     "weight": "4x500 ml - cans",
     "price": 12.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hae/hb8/8888737955870.jpg",
-      "large": "https://product-images.metro.ca/images/h35/h38/8888739856414.jpg"
+      "small": "https://product-images.metro.ca/images/hea/h75/8910720139294.jpg",
+      "large": "https://product-images.metro.ca/images/hb7/h68/8910721024030.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/dutch-lager/p/072890004956",
     "category": "beverages/beer-cider/imported-beer"
@@ -2475,10 +3027,10 @@
     "brand": "Labatt Bleue Dry",
     "name": "Strong beer",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h4d/h8c/8887954505758.jpg",
-      "large": "https://product-images.metro.ca/images/hff/hef/8887956209694.jpg"
+      "small": "https://product-images.metro.ca/images/h25/hdb/8910640775198.jpg",
+      "large": "https://product-images.metro.ca/images/h46/ha3/8910641692702.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/strong-beer/p/062067307034",
     "category": "beverages/beer-cider/classic-beer"
@@ -2523,7 +3075,7 @@
     "brand": "Molson Canadian 67",
     "name": "Light beer",
     "weight": "24x341 ml - bottles",
-    "price": 32.99,
+    "price": 24.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h98/hd5/8811219583006.jpg",
       "large": "https://product-images.metro.ca/images/he7/hb8/8811220467742.jpg"
@@ -2571,7 +3123,7 @@
     "brand": "Alexander Keith's",
     "name": "Brewmaster's Collection variety pack",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/ha3/hb5/8812224380958.jpg",
       "large": "https://product-images.metro.ca/images/h1d/he9/8812226215966.jpg"
@@ -2583,7 +3135,7 @@
     "brand": "Granville Island Brewing",
     "name": "English Bay Pale Ale",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hb4/h88/8812510904350.jpg",
       "large": "https://product-images.metro.ca/images/h83/h75/8812512673822.jpg"
@@ -2595,7 +3147,7 @@
     "brand": "Brasseurs du Monde",
     "name": "L'Écurieux Nut brown Ale",
     "weight": "500 ml - bottle",
-    "price": 4,
+    "price": 4.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h8d/h28/8812807651358.jpg",
       "large": "https://product-images.metro.ca/images/h40/hac/8812809355294.jpg"
@@ -2607,7 +3159,7 @@
     "brand": "Brasseurs du Monde",
     "name": "Nectareüs honey brown Ale",
     "weight": "500 ml - bottle",
-    "price": 4,
+    "price": 4.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h27/hc9/8811590778910.jpg",
       "large": "https://product-images.metro.ca/images/h0f/h6d/8811592417310.jpg"
@@ -2619,7 +3171,7 @@
     "brand": "Carlsberg",
     "name": "Danish blond beer",
     "weight": "4x500 ml - cans",
-    "price": 8.32,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h9a/h01/8884991590430.jpg",
       "large": "https://product-images.metro.ca/images/hf3/h31/8884992475166.jpg"
@@ -2664,22 +3216,10 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Les Brasseurs RJ",
-    "name": "Robe Noire chocolate Stout",
-    "weight": "750 ml - bottle",
-    "price": 5.25,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hff/hd0/8883413090334.jpg",
-      "large": "https://product-images.metro.ca/images/hb3/h8b/8883413975070.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/robe-noire-chocolate-stout/p/620114750204",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Belle Gueule",
     "name": "Connoisseurs's trio variety pack",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h2b/had/8813230227486.jpg",
       "large": "https://product-images.metro.ca/images/hd8/h57/8813232193566.jpg"
@@ -2691,7 +3231,7 @@
     "brand": "Unibroue",
     "name": "Blonde de Chambly golden Ale on lees",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h49/he2/8881460871198.jpg",
       "large": "https://product-images.metro.ca/images/h4f/h29/8881461723166.jpg"
@@ -2715,7 +3255,7 @@
     "brand": "Dos Equis",
     "name": "Mexican Lager",
     "weight": "6x355 ml - bottles",
-    "price": 9.99,
+    "price": 12.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hee/hc2/8811997298718.jpg",
       "large": "https://product-images.metro.ca/images/h06/hf5/8811998937118.jpg"
@@ -2727,7 +3267,7 @@
     "brand": "Unibroue",
     "name": "La Fin du Monde extra strong Triple Ale on lees",
     "weight": "6x341 ml - bottles",
-    "price": 14.99,
+    "price": 11.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h82/hfd/8880685907998.jpg",
       "large": "https://product-images.metro.ca/images/h3f/h8c/8880686956574.jpg"
@@ -2739,7 +3279,7 @@
     "brand": "Goose Island",
     "name": "India Pale Ale",
     "weight": "12x341 ml - bottles",
-    "price": 19.99,
+    "price": 16.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hc7/h9f/8881830592542.jpg",
       "large": "https://product-images.metro.ca/images/hdd/hb5/8881831575582.jpg"
@@ -2760,10 +3300,22 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
+    "brand": "Bud Light",
+    "name": "Light blonde beer",
+    "weight": "6x355 ml - cans",
+    "price": 10.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h45/hbe/8881830625310.jpg",
+      "large": "https://product-images.metro.ca/images/h57/h6a/8881831510046.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-light-beer/light-blonde-beer/p/062067567346",
+    "category": "beverages/beer-cider/classic-light-beer"
+  },
+  {
     "brand": "Shock Top",
     "name": "Belgian White Ale",
     "weight": "473 ml - can",
-    "price": 3.29,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h16/hc3/8881839669278.jpg",
       "large": "https://product-images.metro.ca/images/h22/h27/8881840652318.jpg"
@@ -2799,7 +3351,7 @@
     "brand": "Sleeman",
     "name": "Clear 2.0 light beer",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/he5/h17/8881487904798.jpg",
       "large": "https://product-images.metro.ca/images/h04/h9e/8881488887838.jpg"
@@ -2811,7 +3363,7 @@
     "brand": "Unibroue",
     "name": "Blonde de Chambly golden Ale on lees",
     "weight": "6x341 ml - bottles",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h90/h7e/8811402690590.jpg",
       "large": "https://product-images.metro.ca/images/ha1/h1f/8811404525598.jpg"
@@ -2823,7 +3375,7 @@
     "brand": "Sleeman",
     "name": "Original Draught Lager",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h6a/h81/8881461067806.jpg",
       "large": "https://product-images.metro.ca/images/h76/h2e/8881461919774.jpg"
@@ -2847,7 +3399,7 @@
     "brand": "Cheval Blanc",
     "name": "La Blanche white beer on lees",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/ha3/h9f/8811354456094.jpg",
       "large": "https://product-images.metro.ca/images/h9a/h8e/8811356356638.jpg"
@@ -2859,10 +3411,10 @@
     "brand": "Rickard's",
     "name": "Blonde German style Pilsner",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hc3/h32/8813683212318.jpg",
-      "large": "https://product-images.metro.ca/images/hd4/h8a/8813685178398.jpg"
+      "small": "https://product-images.metro.ca/images/hb9/he9/8949968928798.jpg",
+      "large": "https://product-images.metro.ca/images/ha4/h37/8949969813534.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/blonde-german-style-pilsner/p/056327006898",
     "category": "beverages/beer-cider/specialty-flavoured-beer"
@@ -2871,7 +3423,7 @@
     "brand": "Boréale",
     "name": "Coarse India Pale Ale",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hf5/hed/8811436048414.jpg",
       "large": "https://product-images.metro.ca/images/hc3/h7a/8811437752350.jpg"
@@ -2895,7 +3447,7 @@
     "brand": "Sleeman",
     "name": "Cream Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h0a/h9a/8881495736350.jpg",
       "large": "https://product-images.metro.ca/images/h57/h3d/8881496621086.jpg"
@@ -2919,13 +3471,25 @@
     "brand": "MadJack",
     "name": "Apple lager",
     "weight": "4x473 ml - cans",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/ha9/hf7/8812912443422.jpg",
       "large": "https://product-images.metro.ca/images/ha6/h71/8812914147358.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/apple-lager/p/056327009332",
     "category": "beverages/beer-cider/specialty-flavoured-beer"
+  },
+  {
+    "brand": "Stella Artois",
+    "name": "Belgian Lager",
+    "weight": "24x330 ml - cans",
+    "price": 36.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hc4/h03/8910637137950.jpg",
+      "large": "https://product-images.metro.ca/images/h27/hdb/8910638022686.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/belgian-lager/p/062067200762",
+    "category": "beverages/beer-cider/imported-beer"
   },
   {
     "brand": "La Vache Folle",
@@ -2943,7 +3507,7 @@
     "brand": "Les Brasseurs RJ",
     "name": "Adventure variety pack",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 11.79,
     "image": {
       "small": "https://product-images.metro.ca/images/h91/hbc/8888235720734.jpg",
       "large": "https://product-images.metro.ca/images/h49/h7b/8888237621278.jpg"
@@ -2964,6 +3528,18 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
+    "brand": "Alexander Keith's",
+    "name": "India Pale Ale",
+    "weight": "24x341 ml - bottles",
+    "price": 32.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h0b/h37/8887985307678.jpg",
+      "large": "https://product-images.metro.ca/images/hf0/hd3/8887987077150.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/india-pale-ale/p/062067121012",
+    "category": "beverages/beer-cider/specialty-flavoured-beer"
+  },
+  {
     "brand": "Charles Henri",
     "name": "White beer",
     "weight": "500 ml - bottle",
@@ -2979,7 +3555,7 @@
     "brand": "Glutenberg",
     "name": "Gluten free American Pale Ale beer",
     "weight": "4x473 ml - cans",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hd3/ha9/8884983234590.jpg",
       "large": "https://product-images.metro.ca/images/h9d/hc7/8884984152094.jpg"
@@ -2988,22 +3564,10 @@
     "category": "beverages/beer-cider/specialty-flavoured-beer"
   },
   {
-    "brand": "Microbrasserie Pit Caribou",
-    "name": "East coast Gaspesian beer with American IPA",
-    "weight": "660 ml - bottle",
-    "price": 8.49,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h71/h73/8883451592734.jpg",
-      "large": "https://product-images.metro.ca/images/hd2/hcc/8883452543006.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/east-coast-gaspesian-beer-with-american-ipa/p/664732001669",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Brasseurs du Monde",
     "name": "Houblonnière hoppy blonde Ale",
     "weight": "500 ml - bottle",
-    "price": 4,
+    "price": 4.5,
     "image": {
       "small": "https://product-images.metro.ca/images/hfa/hde/8812023119902.jpg",
       "large": "https://product-images.metro.ca/images/hf5/hac/8812024692766.jpg"
@@ -3039,7 +3603,7 @@
     "brand": "Sleeman",
     "name": "Light beer",
     "weight": "30x355 ml - cans",
-    "price": 31.99,
+    "price": 34.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hc1/hc8/8811754749982.jpg",
       "large": "https://product-images.metro.ca/images/h48/h1e/8811756584990.jpg"
@@ -3048,10 +3612,22 @@
     "category": "beverages/beer-cider/classic-light-beer"
   },
   {
+    "brand": "St-Ambroise",
+    "name": "Pale Ale",
+    "weight": "12x341 ml - bottles",
+    "price": 15.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h8f/h17/8813914816542.jpg",
+      "large": "https://product-images.metro.ca/images/h94/hb0/8813916717086.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/pale-ale/p/055480010018",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
     "brand": "Birra Moretti",
     "name": "Italian lager",
     "weight": "500 ml - can",
-    "price": 3.49,
+    "price": 2.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hb8/hee/8884996046878.jpg",
       "large": "https://product-images.metro.ca/images/h98/h1e/8884996931614.jpg"
@@ -3060,22 +3636,10 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
-    "brand": "Amstel Light",
-    "name": "Dutch light Lager",
-    "weight": "6x355 ml - bottles",
-    "price": 10.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hbc/h8b/8811547066398.jpg",
-      "large": "https://product-images.metro.ca/images/h8b/h2b/8811548901406.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/dutch-light-lager/p/072890100115",
-    "category": "beverages/beer-cider/imported-beer"
-  },
-  {
     "brand": "Beck's",
     "name": "German beer",
     "weight": "6x330 ml - bottles",
-    "price": 11.99,
+    "price": 10.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h86/h71/8883373113374.jpg",
       "large": "https://product-images.metro.ca/images/h26/hea/8883373965342.jpg"
@@ -3135,7 +3699,7 @@
     "brand": "Brasseurs du Monde",
     "name": "L'Occasion India Pale Ale",
     "weight": "500 ml - bottle",
-    "price": 4,
+    "price": 4.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h31/hac/8918664380446.jpg",
       "large": "https://product-images.metro.ca/images/hb6/h1e/8918666149918.jpg"
@@ -3168,6 +3732,18 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
+    "brand": "Moosehead",
+    "name": "Lager",
+    "weight": "6x341 ml - bottles",
+    "price": 9.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hd7/h27/8880688103454.jpg",
+      "large": "https://product-images.metro.ca/images/h5c/hc0/8880688988190.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/776029700268",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
     "brand": "Molson Canadian",
     "name": "Lager",
     "weight": "12x341 ml - bottles",
@@ -3183,25 +3759,13 @@
     "brand": "St-Ambroise",
     "name": "Apricot Wheat Ale",
     "weight": "6x341 ml - bottles",
-    "price": 11.79,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hde/h52/8813307887646.jpg",
       "large": "https://product-images.metro.ca/images/h39/h09/8813309526046.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/apricot-wheat-ale/p/055480017109",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
-    "brand": "Reflet d'Hiver",
-    "name": "Ice cider",
-    "weight": "375 ml",
-    "price": 20.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h8d/h15/8813626720286.jpg",
-      "large": "https://product-images.metro.ca/images/h92/h23/8813628555294.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/ice-cider/p/854745000579",
-    "category": "beverages/beer-cider/cider"
   },
   {
     "brand": "Labatt 50",
@@ -3219,7 +3783,7 @@
     "brand": "Sleeman",
     "name": "Cream Ale",
     "weight": "473 ml - can",
-    "price": 3.29,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/haa/h81/8812162056222.jpg",
       "large": "https://product-images.metro.ca/images/ha8/h33/8812163563550.jpg"
@@ -3231,10 +3795,10 @@
     "brand": "Rickard's",
     "name": "Grapefruit flavoured Radler",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hbb/h35/8880813998110.jpg",
-      "large": "https://product-images.metro.ca/images/h16/h15/8880814948382.jpg"
+      "small": "https://product-images.metro.ca/images/hac/h84/8950068215838.jpg",
+      "large": "https://product-images.metro.ca/images/hfe/hdf/8950069035038.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-light-beer/grapefruit-flavoured-radler/p/056327009844",
     "category": "beverages/beer-cider/classic-light-beer"
@@ -3243,7 +3807,7 @@
     "brand": "Brasseurs du Monde",
     "name": "La Saison Tradition Farmhouse Ale on lees",
     "weight": "500 ml - bottle",
-    "price": 4,
+    "price": 4.5,
     "image": {
       "small": "https://product-images.metro.ca/images/heb/h2b/8811432640542.jpg",
       "large": "https://product-images.metro.ca/images/he4/hc1/8811434410014.jpg"
@@ -3255,7 +3819,7 @@
     "brand": "Boréale",
     "name": "Dorée honey Ale",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hf6/hae/8811454332958.jpg",
       "large": "https://product-images.metro.ca/images/hcc/h30/8811456233502.jpg"
@@ -3264,10 +3828,22 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
+    "brand": "Samuel Adams",
+    "name": "Boston Lager®",
+    "weight": "6x355 ml - bottles",
+    "price": 9.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h30/h53/8811637506078.jpg",
+      "large": "https://product-images.metro.ca/images/hef/h21/8811639078942.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/boston-lager/p/087692100126",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
     "brand": "Dublin's Pub",
     "name": "The Authentic Irish pub-style apple cider",
     "weight": "4x355 ml",
-    "price": 8.49,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/ha1/h42/8813667745822.jpg",
       "large": "https://product-images.metro.ca/images/h18/hd5/8813669318686.jpg"
@@ -3303,12 +3879,24 @@
     "brand": "Brasseurs du Monde",
     "name": "Big Ben Porter",
     "weight": "500 ml - bottle",
-    "price": 4,
+    "price": 4.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h62/h8b/8813965934622.jpg",
       "large": "https://product-images.metro.ca/images/h57/h8c/8813967507486.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/big-ben-porter/p/793573049209",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Boréale",
+    "name": "Cuivrée strong Ale",
+    "weight": "6x341 ml - bottles",
+    "price": 8.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h0f/h4b/8813418643486.jpg",
+      "large": "https://product-images.metro.ca/images/h67/hd0/8813420511262.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/cuivree-strong-ale/p/771815293788",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
@@ -3327,7 +3915,7 @@
     "brand": "Sleeman",
     "name": "Light beer",
     "weight": "473 ml - can",
-    "price": 3.29,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h85/h24/8812667863070.jpg",
       "large": "https://product-images.metro.ca/images/ha5/h5d/8812669435934.jpg"
@@ -3351,7 +3939,7 @@
     "brand": "Belle Gueule",
     "name": "Red Lager",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h65/h74/8811404656670.jpg",
       "large": "https://product-images.metro.ca/images/h43/h7d/8811406295070.jpg"
@@ -3363,10 +3951,10 @@
     "brand": "St-Ambroise",
     "name": "Red Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hed/h46/8888494358558.jpg",
-      "large": "https://product-images.metro.ca/images/he6/h8f/8888496390174.jpg"
+      "small": "https://product-images.metro.ca/images/he3/h3a/8910700380190.jpg",
+      "large": "https://product-images.metro.ca/images/h62/h64/8910701297694.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/red-ale/p/055480001047",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
@@ -3384,10 +3972,22 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
+    "brand": "Labatt 50",
+    "name": "Ale",
+    "weight": "12x341 ml - bottles",
+    "price": 16.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h14/h2b/8881832460318.jpg",
+      "large": "https://product-images.metro.ca/images/h0d/h22/8881833410590.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/ale/p/062067111020",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
     "brand": "Sleeman",
     "name": "Light beer",
     "weight": "24x341 ml - bottles",
-    "price": 28,
+    "price": 24.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h41/h0d/8811509841950.jpg",
       "large": "https://product-images.metro.ca/images/hcb/h6f/8811511414814.jpg"
@@ -3411,7 +4011,7 @@
     "brand": "Belle Gueule",
     "name": "Lager",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hb9/hed/8813075431454.jpg",
       "large": "https://product-images.metro.ca/images/h93/h8e/8813077135390.jpg"
@@ -3423,7 +4023,7 @@
     "brand": "Cheval Blanc",
     "name": "La Blanche white beer on lees",
     "weight": "6x341 ml - bottles",
-    "price": 10.79,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hba/h9c/8812995280926.jpg",
       "large": "https://product-images.metro.ca/images/h86/hcb/8812996984862.jpg"
@@ -3480,22 +4080,10 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Rickard's",
-    "name": "Red IPA™",
-    "weight": "6x341 ml - bottles",
-    "price": 10.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h77/h18/8880822353950.jpg",
-      "large": "https://product-images.metro.ca/images/hd1/hf0/8880823205918.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/red-ipa-/p/056327010024",
-    "category": "beverages/beer-cider/classic-beer"
-  },
-  {
     "brand": "Alexander Keith's",
     "name": "Red amber Ale",
     "weight": "473 ml - can",
-    "price": 3.49,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h9a/h4c/8888545214494.jpg",
       "large": "https://product-images.metro.ca/images/hba/hea/8888546787358.jpg"
@@ -3528,22 +4116,10 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Granville Island Brewing",
-    "name": "Lions Winter Ale®",
-    "weight": "6x341 ml - bottles",
-    "price": 9.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h63/h69/8918539337758.jpg",
-      "large": "https://product-images.metro.ca/images/h64/h3d/8918540779550.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/lions-winter-ale-/p/779446177019",
-    "category": "beverages/beer-cider/specialty-flavoured-beer"
-  },
-  {
     "brand": "Dublin's Pub",
     "name": "The Authentic Irish pub-style apple cider",
     "weight": "473 ml",
-    "price": 2.49,
+    "price": 2.25,
     "image": {
       "small": "https://product-images.metro.ca/images/h22/h5c/8812844351518.jpg",
       "large": "https://product-images.metro.ca/images/he0/h22/8812845793310.jpg"
@@ -3579,7 +4155,7 @@
     "brand": "Creemore Springs",
     "name": "Lager",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h78/h0c/8914929123358.jpg",
       "large": "https://product-images.metro.ca/images/hf0/hb1/8914931023902.jpg"
@@ -3591,7 +4167,7 @@
     "brand": "Shock Top",
     "name": "Belgian White Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hba/he8/8812721668126.jpg",
       "large": "https://product-images.metro.ca/images/h7b/h61/8812723372062.jpg"
@@ -3638,11 +4214,11 @@
   {
     "brand": "McKeown",
     "name": "Pear flavoured crackling carbonated cider",
-    "weight": "4x355 ml",
-    "price": 10.99,
+    "weight": "4x355 ml -bottles",
+    "price": 8.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h1b/hc1/8814291124254.jpg",
-      "large": "https://product-images.metro.ca/images/h27/h08/8814292762654.jpg"
+      "small": "https://product-images.metro.ca/images/h32/hcc/8957386358814.jpg",
+      "large": "https://product-images.metro.ca/images/h53/hfd/8957387210782.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/pear-flavoured-crackling-carbonated-cider/p/841125072714",
     "category": "beverages/beer-cider/cider"
@@ -3651,7 +4227,7 @@
     "brand": "Granville Island Brewing",
     "name": "The Winter Mingler variety pack",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h50/hae/8919797628958.jpg",
       "large": "https://product-images.metro.ca/images/h11/h27/8919799332894.jpg"
@@ -3675,7 +4251,7 @@
     "brand": "Belle Gueule",
     "name": "Hefeweizen",
     "weight": "6x341 ml - bottles",
-    "price": 10.79,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h75/h82/8887860723742.jpg",
       "large": "https://product-images.metro.ca/images/h3f/ha0/8887861641246.jpg"
@@ -3687,7 +4263,7 @@
     "brand": "Brasseurs du Monde",
     "name": "L'Interdite 60 American Pale Ale",
     "weight": "341 ml - bottle",
-    "price": 2.49,
+    "price": 1.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h13/h56/8812245647390.jpg",
       "large": "https://product-images.metro.ca/images/hf7/h27/8812247187486.jpg"
@@ -3696,22 +4272,10 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Unibroue",
-    "name": "Éphémère blueberry Ale on lees",
-    "weight": "750 ml - bottle",
-    "price": 5.5,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hfa/hc5/8881459331102.jpg",
-      "large": "https://product-images.metro.ca/images/hae/hc0/8881460117534.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/ephemere-blueberry-ale-on-lees/p/056910827503",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Sol",
     "name": "Mexican beer",
     "weight": "12x330 ml - bottles",
-    "price": 18.99,
+    "price": 21.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h92/h1e/8882257952798.jpg",
       "large": "https://product-images.metro.ca/images/h1c/h44/8882258935838.jpg"
@@ -3735,7 +4299,7 @@
     "brand": "Belle Gueule",
     "name": "Pilsner",
     "weight": "6x341 ml - bottles",
-    "price": 7.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h1d/hc6/8812134793246.jpg",
       "large": "https://product-images.metro.ca/images/h2f/hb6/8812136497182.jpg"
@@ -3747,7 +4311,7 @@
     "brand": "Brasseurs du Monde",
     "name": "L'Interdite 90 American India Pale Ale",
     "weight": "341 ml - bottle",
-    "price": 2.59,
+    "price": 1.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hd8/h58/8814106181662.jpg",
       "large": "https://product-images.metro.ca/images/h43/h8b/8814107754526.jpg"
@@ -3759,7 +4323,7 @@
     "brand": "Sleeman",
     "name": "Honey Brown Lager",
     "weight": "473 ml - can",
-    "price": 3.29,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/hc6/hc8/8811719622686.jpg",
       "large": "https://product-images.metro.ca/images/hc5/h83/8811721195550.jpg"
@@ -3797,8 +4361,8 @@
     "weight": "473 ml - can",
     "price": 2.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hc9/hce/8811946115102.jpg",
-      "large": "https://product-images.metro.ca/images/h90/hfb/8811947687966.jpg"
+      "small": "https://product-images.metro.ca/images/h0b/h62/8957384458270.jpg",
+      "large": "https://product-images.metro.ca/images/h89/hf4/8957385408542.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/ale/p/056327007741",
     "category": "beverages/beer-cider/classic-beer"
@@ -3807,7 +4371,7 @@
     "brand": "Les Brasseurs RJ",
     "name": "Blonde d'Achouffe spicy strong beer",
     "weight": "750 ml - bottle",
-    "price": 5.25,
+    "price": 6.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h2f/haa/8811265261598.jpg",
       "large": "https://product-images.metro.ca/images/h05/h74/8811266834462.jpg"
@@ -3819,7 +4383,7 @@
     "brand": "Molson Canadian 67",
     "name": "Light beer",
     "weight": "24x355 ml - cans",
-    "price": 32.99,
+    "price": 24.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h95/h9e/8913389158430.jpg",
       "large": "https://product-images.metro.ca/images/h86/h2f/8913390141470.jpg"
@@ -3831,7 +4395,7 @@
     "brand": "Sleeman",
     "name": "Rousse red Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hc9/h18/8905674096670.jpg",
       "large": "https://product-images.metro.ca/images/hf9/hc0/8905675866142.jpg"
@@ -3840,16 +4404,28 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Brasseurs du Monde",
-    "name": "L'Exploité mocha Stout",
-    "weight": "341 ml - bottle",
-    "price": 2.79,
+    "brand": "Sleeman",
+    "name": "Silver Creek Lager",
+    "weight": "15x341 ml - bottles",
+    "price": 17.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h68/h9f/8811459051550.jpg",
-      "large": "https://product-images.metro.ca/images/h4f/h19/8811460821022.jpg"
+      "small": "https://product-images.metro.ca/images/h6c/h25/8813638713374.jpg",
+      "large": "https://product-images.metro.ca/images/hea/h56/8813640417310.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/l-exploite-mocha-stout/p/793573049148",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/silver-creek-lager/p/056910111152",
+    "category": "beverages/beer-cider/classic-beer"
+  },
+  {
+    "brand": "Heineken",
+    "name": "Dutch Lager",
+    "weight": "650 ml - bottle",
+    "price": 4.79,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h4d/he0/8813551943710.jpg",
+      "large": "https://product-images.metro.ca/images/haf/h99/8813553647646.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/dutch-lager/p/072890004420",
+    "category": "beverages/beer-cider/imported-beer"
   },
   {
     "brand": "Brasserie Dieu du Ciel!",
@@ -3867,7 +4443,7 @@
     "brand": "Miller Lite",
     "name": "Light Pilsner",
     "weight": "12x355 ml - bottles",
-    "price": 16.99,
+    "price": 17.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h3d/hc0/8813462355998.jpg",
       "large": "https://product-images.metro.ca/images/h0e/hb5/8813463994398.jpg"
@@ -3879,7 +4455,7 @@
     "brand": "Sol",
     "name": "Mexican beer",
     "weight": "6x330 ml - bottles",
-    "price": 9.99,
+    "price": 10.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h60/he3/8812939771934.jpg",
       "large": "https://product-images.metro.ca/images/h2b/h39/8812941344798.jpg"
@@ -3891,7 +4467,7 @@
     "brand": "Glutenberg",
     "name": "Gluten free blonde beer",
     "weight": "4x473 ml - cans",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h12/hda/8885022949406.jpg",
       "large": "https://product-images.metro.ca/images/hd2/h10/8885023866910.jpg"
@@ -3924,10 +4500,22 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
+    "brand": "Grolsch",
+    "name": "Dutch Lager",
+    "weight": "12x330 ml - bottles",
+    "price": 18.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hce/h15/8967381155870.jpg",
+      "large": "https://product-images.metro.ca/images/hc0/hf6/8967382040606.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/dutch-lager/p/083741170027",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
     "brand": "St-Ambroise",
     "name": "Pale Ale",
     "weight": "341 ml - bottle",
-    "price": 10.79,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hfc/h82/8814125252638.jpg",
       "large": "https://product-images.metro.ca/images/hcf/h5e/8814126825502.jpg"
@@ -3951,7 +4539,7 @@
     "brand": "Molson Canadian 67",
     "name": "Session India Pale Ale",
     "weight": "6x341 ml - bottles",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h78/hc5/8880819437598.jpg",
       "large": "https://product-images.metro.ca/images/hc1/h2b/8880820355102.jpg"
@@ -3972,22 +4560,10 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
-    "brand": "Molson Canadian",
-    "name": "Lager",
-    "weight": "6x341 ml - bottles",
-    "price": 10.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hf6/h6b/8813797310494.jpg",
-      "large": "https://product-images.metro.ca/images/hdc/h2f/8813798948894.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/056327072534",
-    "category": "beverages/beer-cider/classic-beer"
-  },
-  {
     "brand": "Belle Gueule",
     "name": "Pilsner",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hf6/h91/8811788697630.jpg",
       "large": "https://product-images.metro.ca/images/h57/h37/8811790598174.jpg"
@@ -4008,6 +4584,18 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
+    "brand": "Sleeman",
+    "name": "Light beer",
+    "weight": "12x341 ml - bottles",
+    "price": 15.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h30/h12/8888108908574.jpg",
+      "large": "https://product-images.metro.ca/images/h02/h06/8888110874654.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-light-beer/light-beer/p/056910147120",
+    "category": "beverages/beer-cider/classic-light-beer"
+  },
+  {
     "brand": "Unibroue",
     "name": "Éphémère beer on lees with apple must",
     "weight": "750 ml - bottle",
@@ -4023,7 +4611,7 @@
     "brand": "Molson Canadian 67",
     "name": "Session India Pale Ale",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 17.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h90/h06/8888341823518.jpg",
       "large": "https://product-images.metro.ca/images/ha1/h5e/8888343789598.jpg"
@@ -4044,34 +4632,34 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Domaine Pinnacle",
-    "name": "Origine still cider",
-    "weight": "750 ml",
-    "price": 9.99,
+    "brand": "Le Bilboquet",
+    "name": "MacKroken™ Scotch Ale brewed with honey",
+    "weight": "500 ml - bottle",
+    "price": 6.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hba/h1e/8811399282718.jpg",
-      "large": "https://product-images.metro.ca/images/h30/hfa/8811400986654.jpg"
+      "small": "https://product-images.metro.ca/images/h07/h27/8910653882398.jpg",
+      "large": "https://product-images.metro.ca/images/h5e/hcd/8910654734366.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/origine-still-cider/p/854745000609",
-    "category": "beverages/beer-cider/cider"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/mackroken-scotch-ale-brewed-with-honey/p/628190000107",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Rickard's",
-    "name": "White Belgian style wheat Ale",
-    "weight": "473 ml - can",
+    "brand": "Alchimiste",
+    "name": "Imperial Stout™ strong beer",
+    "weight": "341 ml - bottle",
     "price": 2.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/he6/hb7/8888709316638.jpg",
-      "large": "https://product-images.metro.ca/images/h84/h19/8888711315486.jpg"
+      "small": "https://product-images.metro.ca/images/hef/h95/8888758730782.jpg",
+      "large": "https://product-images.metro.ca/images/he3/ha8/8888760631326.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/white-belgian-style-wheat-ale/p/056327005686",
-    "category": "beverages/beer-cider/specialty-flavoured-beer"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/imperial-stout-strong-beer/p/180519001320",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Brasseur de Montréal",
     "name": "Chi white beer",
     "weight": "341 ml - bottle",
-    "price": 2.49,
+    "price": 1.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h8b/h64/8883404177438.jpg",
       "large": "https://product-images.metro.ca/images/h0c/hcb/8883404996638.jpg"
@@ -4092,16 +4680,28 @@
     "category": "beverages/beer-cider/specialty-flavoured-beer"
   },
   {
-    "brand": "Old Tyme",
-    "name": "Ginger beer",
+    "brand": "The Great Jamaican Ginger Beer Co",
+    "name": "Spicy ginger beer",
     "weight": "6x250 ml",
     "price": 6.29,
     "image": {
       "small": "https://product-images.metro.ca/images/hd9/h3b/8934236782622.jpg",
       "large": "https://product-images.metro.ca/images/h33/he6/8934237765662.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/soft-drinks/ginger-ale/ginger-beer/p/055789009522",
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/soft-drinks/ginger-ale/spicy-ginger-beer/p/055789009522",
     "category": "beverages/soft-drinks/ginger-ale"
+  },
+  {
+    "brand": "Boréale",
+    "name": "Light India Session Ale des chutes",
+    "weight": "6x341 ml - bottles",
+    "price": 11.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hff/hbb/8926271438878.jpg",
+      "large": "https://product-images.metro.ca/images/hbc/h13/8926272421918.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/light-india-session-ale-des-chutes/p/771815263781",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Archibald",
@@ -4131,13 +4731,37 @@
     "brand": "St-Ambroise",
     "name": "Red Ale",
     "weight": "473 ml - can",
-    "price": 2.5,
+    "price": 2.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h26/h95/8879617867806.jpg",
       "large": "https://product-images.metro.ca/images/h9b/he3/8879619571742.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/red-ale/p/055480044006",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "St-Ambroise",
+    "name": "Mixed beer pack",
+    "weight": "12x341 ml - bottles",
+    "price": 17.49,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h70/h99/8965609259038.jpg",
+      "large": "https://product-images.metro.ca/images/hca/h28/8965610995742.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/mixed-beer-pack/p/055480040022",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Modelo",
+    "name": "Mexican beer",
+    "weight": "12x355 ml - cans",
+    "price": 21.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h2f/hbd/8885027110942.jpg",
+      "large": "https://product-images.metro.ca/images/h8c/h6b/8885028028446.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/mexican-beer/p/7501064196386",
+    "category": "beverages/beer-cider/imported-beer"
   },
   {
     "brand": "Stella Artois",
@@ -4152,10 +4776,22 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
+    "brand": "Boréale",
+    "name": "Blanche wheat beer",
+    "weight": "12x341 ml - bottles",
+    "price": 15.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h1b/h1d/8812339527710.jpg",
+      "large": "https://product-images.metro.ca/images/hb9/h5e/8812341362718.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/blanche-wheat-beer/p/771815363788",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
     "brand": "Unibroue",
     "name": "Maudite strong Double Ale on lees",
     "weight": "6x341 ml - bottles",
-    "price": 14.99,
+    "price": 11.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hfd/h4f/8883941867550.jpg",
       "large": "https://product-images.metro.ca/images/h76/h02/8883942686750.jpg"
@@ -4167,7 +4803,7 @@
     "brand": "Griffon",
     "name": "Extra Pale Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hb4/h5a/8880790306846.jpg",
       "large": "https://product-images.metro.ca/images/hec/hec/8880791158814.jpg"
@@ -4179,7 +4815,7 @@
     "brand": "Boréale",
     "name": "Noire dry Stout",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h6c/h3e/8811687706654.jpg",
       "large": "https://product-images.metro.ca/images/h33/hf8/8811689213982.jpg"
@@ -4191,7 +4827,7 @@
     "brand": "St-Ambroise",
     "name": "Oatmeal Stout",
     "weight": "6x341 ml - bottles",
-    "price": 11.79,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h13/h16/8880801087518.jpg",
       "large": "https://product-images.metro.ca/images/h0e/h37/8880802037790.jpg"
@@ -4203,7 +4839,7 @@
     "brand": "Rolling Rock",
     "name": "Extra Pale Lager",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 14.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h83/h88/8881868832798.jpg",
       "large": "https://product-images.metro.ca/images/h23/h88/8881869783070.jpg"
@@ -4215,7 +4851,7 @@
     "brand": "Labatt Bleue Dry",
     "name": "Strong beer",
     "weight": "1.18 L - bottle",
-    "price": 6.49,
+    "price": 4.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h3f/h0f/8872121958430.jpg",
       "large": "https://product-images.metro.ca/images/hca/h30/8872123727902.jpg"
@@ -4227,7 +4863,7 @@
     "brand": "Unibroue",
     "name": "Trois Pistoles extra strong dark Ale on lees",
     "weight": "6x341 ml - bottles",
-    "price": 14.99,
+    "price": 11.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h70/h7b/8883950092318.jpg",
       "large": "https://product-images.metro.ca/images/h92/hc8/8883951042590.jpg"
@@ -4248,34 +4884,10 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
-    "brand": "Griffon",
-    "name": "Red Ale",
-    "weight": "12x341 ml - bottles",
-    "price": 16.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hae/h97/8813020708894.jpg",
-      "large": "https://product-images.metro.ca/images/hd2/h49/8813022740510.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/red-ale/p/055480020017",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
-    "brand": "Rickard's",
-    "name": "Grapefruit flavoured Radler",
-    "weight": "6x341 ml - bottles",
-    "price": 10.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h8f/hd5/8880812490782.jpg",
-      "large": "https://product-images.metro.ca/images/h0a/h36/8880813342750.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/grapefruit-flavoured-radler/p/056327009783",
-    "category": "beverages/beer-cider/specialty-flavoured-beer"
-  },
-  {
     "brand": "Les Brasseurs RJ",
     "name": "Death Valley triple hop strong beer on lees",
     "weight": "750 ml - bottle",
-    "price": 5.25,
+    "price": 6.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h71/h67/8811762483230.jpg",
       "large": "https://product-images.metro.ca/images/hd3/h80/8811764056094.jpg"
@@ -4306,18 +4918,6 @@
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/strong-beer/p/056327004696",
     "category": "beverages/beer-cider/classic-beer"
-  },
-  {
-    "brand": "Microbrasserie Le Grimoire",
-    "name": "La Vie de Château amber brown rhum Ale",
-    "weight": "500 ml - bottle",
-    "price": 6.49,
-    "image": {
-      "small": "https://product-images.metro.ca/images/he0/h4f/8883917160478.jpg",
-      "large": "https://product-images.metro.ca/images/hb8/hbb/8883918012446.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/la-vie-de-chateau-amber-brown-rhum-ale/p/811343003050",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Microbrasserie Le Grimoire",
@@ -4368,22 +4968,10 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Brasseur de Montréal",
-    "name": "Black Watch brown beer",
-    "weight": "341 ml - bottle",
-    "price": 2.49,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h28/hdf/8883431571486.jpg",
-      "large": "https://product-images.metro.ca/images/h70/h2c/8883432423454.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/black-watch-brown-beer/p/629255103016",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Alexander Keith's",
     "name": "India Pale Ale",
     "weight": "473 ml - can",
-    "price": 3.49,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/hf4/h59/8881836163102.jpg",
       "large": "https://product-images.metro.ca/images/h9b/h71/8881837080606.jpg"
@@ -4418,32 +5006,20 @@
   {
     "brand": "McKeown",
     "name": "Crackling carbonated cider",
-    "weight": "4x355 ml",
-    "price": 10.99,
+    "weight": "4x355 ml -bottles",
+    "price": 8.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/ha8/hc5/8813228523550.jpg",
-      "large": "https://product-images.metro.ca/images/he5/h0f/8813230096414.jpg"
+      "small": "https://product-images.metro.ca/images/h4e/h87/8957386293278.jpg",
+      "large": "https://product-images.metro.ca/images/h7f/h0d/8957387243550.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/crackling-carbonated-cider/p/841125072691",
     "category": "beverages/beer-cider/cider"
   },
   {
-    "brand": "Carling Black Label",
-    "name": "Lager",
-    "weight": "12x355 ml - cans",
-    "price": 14.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hd6/h9f/8881477386270.jpg",
-      "large": "https://product-images.metro.ca/images/h37/h7f/8881478271006.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/056327113251",
-    "category": "beverages/beer-cider/classic-beer"
-  },
-  {
     "brand": "MadJack",
     "name": "Ginger flavoured Lager",
     "weight": "4x473 ml - cans",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h3c/hbc/8881453858846.jpg",
       "large": "https://product-images.metro.ca/images/h72/he8/8881454678046.jpg"
@@ -4455,7 +5031,7 @@
     "brand": "Les Brasseurs RJ",
     "name": "Barbãr honey strong beer on lees",
     "weight": "750 ml - bottle",
-    "price": 5.25,
+    "price": 6.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h63/h3d/8883453755422.jpg",
       "large": "https://product-images.metro.ca/images/h2c/h8e/8883454672926.jpg"
@@ -4502,14 +5078,26 @@
   {
     "brand": "McKeown",
     "name": "Cranberry flavoured carbonated sparkling cider",
-    "weight": "4x355 ml",
-    "price": 10.99,
+    "weight": "4x355 ml -bottles",
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h8a/h34/8885002633246.jpg",
       "large": "https://product-images.metro.ca/images/h7a/haa/8885003517982.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/cranberry-flavoured-carbonated-sparkling-cider/p/841125072707",
     "category": "beverages/beer-cider/cider"
+  },
+  {
+    "brand": "Löwenbräu",
+    "name": "Extra light Radler type beer with lemonade",
+    "weight": "473 ml - can",
+    "price": 3.29,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h32/h91/8888487936030.jpg",
+      "large": "https://product-images.metro.ca/images/h27/h58/8888489771038.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/extra-light-radler-type-beer-with-lemonade/p/062067861536",
+    "category": "beverages/beer-cider/specialty-flavoured-beer"
   },
   {
     "brand": "Shock Top",
@@ -4539,31 +5127,19 @@
     "brand": "Boréale",
     "name": "Blanche wheat beer",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h67/h99/8812192202782.jpg",
-      "large": "https://product-images.metro.ca/images/h03/h47/8812193906718.jpg"
+      "small": "https://product-images.metro.ca/images/hef/hfe/8944038248478.jpg",
+      "large": "https://product-images.metro.ca/images/hd1/h37/8944039165982.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/blanche-wheat-beer/p/771815353789",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "London Calling",
-    "name": "Pear cider",
-    "weight": "4x341 ml",
-    "price": 9.59,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h49/he2/8811642617886.jpg",
-      "large": "https://product-images.metro.ca/images/h49/h97/8811644059678.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/pear-cider/p/629130200021",
-    "category": "beverages/beer-cider/cider"
-  },
-  {
     "brand": "Alexander Keith's",
     "name": "India Pale Ale",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hb4/h31/8881843437598.jpg",
       "large": "https://product-images.metro.ca/images/he6/h5d/8881844355102.jpg"
@@ -4575,7 +5151,7 @@
     "brand": "Labatt Bleue Dry",
     "name": "Extra strong beer",
     "weight": "1.18 L - bottle",
-    "price": 6.49,
+    "price": 4.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h81/hd9/8871996391454.jpg",
       "large": "https://product-images.metro.ca/images/h75/he6/8871998160926.jpg"
@@ -4611,7 +5187,7 @@
     "brand": "Les Brasseurs RJ",
     "name": "Brune d'Achouffe spicy strong beer on lees",
     "weight": "750 ml - bottle",
-    "price": 5.25,
+    "price": 6.49,
     "image": {
       "small": "https://product-images.metro.ca/images/h32/h12/8883453427742.jpg",
       "large": "https://product-images.metro.ca/images/hd6/hda/8883454378014.jpg"
@@ -4623,12 +5199,12 @@
     "brand": "Mill St. Brewery",
     "name": "Original organic Lager™",
     "weight": "12x341 ml - bottles",
-    "price": 19.99,
+    "price": 17.49,
     "image": {
       "small": "https://product-images.metro.ca/images/had/h74/8884965507102.jpg",
       "large": "https://product-images.metro.ca/images/h0f/h4b/8884966391838.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/original-organic-lager-/p/855315001194",
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/original-organic-lager/p/855315001194",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
@@ -4671,7 +5247,7 @@
     "brand": "Cheval Blanc",
     "name": "Wheat beer on lees",
     "weight": "750 ml - bottle",
-    "price": 5.25,
+    "price": 5.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h24/h77/8883409551390.jpg",
       "large": "https://product-images.metro.ca/images/h7d/h0a/8883410436126.jpg"
@@ -4707,7 +5283,7 @@
     "brand": "Unibroue",
     "name": "Éphémère blueberry Ale on lees",
     "weight": "6x341 ml - bottles",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h9e/hf5/8911089827870.jpg",
       "large": "https://product-images.metro.ca/images/h7b/h12/8911091597342.jpg"
@@ -4726,6 +5302,18 @@
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/pom-or-tradition-crackling-cider/p/622837006064",
     "category": "beverages/beer-cider/cider"
+  },
+  {
+    "brand": "Bud Light",
+    "name": "Light blonde Lager",
+    "weight": "6x341 ml - bottles",
+    "price": 10.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hbc/he1/8881880596510.jpg",
+      "large": "https://product-images.metro.ca/images/he0/h46/8881881481246.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-light-beer/light-blonde-lager/p/062067567032",
+    "category": "beverages/beer-cider/classic-light-beer"
   },
   {
     "brand": "Microbrasserie Pit Caribou",
@@ -4791,7 +5379,7 @@
     "brand": "Unibroue",
     "name": "Éphémère beer on lees with apple must",
     "weight": "6x341 ml - bottles",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hac/hc9/8813397803038.jpg",
       "large": "https://product-images.metro.ca/images/hdc/hd5/8813399244830.jpg"
@@ -4824,22 +5412,22 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Labatt Bleue Dry",
-    "name": "Strong beer",
-    "weight": "1.18 L - bottle",
-    "price": 4.99,
+    "brand": "Michel Jodoin",
+    "name": "Coeur à tout carbonated crackling rosé cider",
+    "weight": "750 ml",
+    "price": 8.69,
     "image": {
-      "small": "https://product-images.metro.ca/images/hcd/h5c/8872136900638.jpg",
-      "large": "https://product-images.metro.ca/images/hb2/hf9/8872138670110.jpg"
+      "small": "https://product-images.metro.ca/images/h6c/h5e/8814264647710.jpg",
+      "large": "https://product-images.metro.ca/images/h70/hfb/8814266417182.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/strong-beer/p/062067307812",
-    "category": "beverages/beer-cider/classic-beer"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/coeur-a-tout-carbonated-crackling-rose-cider/p/609780003326",
+    "category": "beverages/beer-cider/cider"
   },
   {
     "brand": "Tremblay",
     "name": "Blonde Lager",
     "weight": "6x341 ml - bottles",
-    "price": 7.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hcc/h4b/8811930976286.jpg",
       "large": "https://product-images.metro.ca/images/h3f/hc5/8811932483614.jpg"
@@ -4851,7 +5439,7 @@
     "brand": "Brasseurs du Monde",
     "name": "L'Assoiffé 8 Dubbel on lees",
     "weight": "341 ml - bottle",
-    "price": 2.29,
+    "price": 1.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h1b/hd1/8812926468126.jpg",
       "large": "https://product-images.metro.ca/images/ha6/ha7/8812928172062.jpg"
@@ -4920,22 +5508,10 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Archibald",
-    "name": "Chipie red Pale Ale",
-    "weight": "473 ml - can",
-    "price": 2.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h99/h96/8884988837918.jpg",
-      "large": "https://product-images.metro.ca/images/h1f/h7b/8884989755422.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/chipie-red-pale-ale/p/876976000036",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Bud Light",
     "name": "Light blonde beer",
     "weight": "473 ml - can",
-    "price": 2.99,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h0f/hb4/8881885380638.jpg",
       "large": "https://product-images.metro.ca/images/h75/h11/8881886199838.jpg"
@@ -4983,24 +5559,12 @@
     "brand": "Brasseurs du Monde",
     "name": "L'Entêté Dunkel Bock",
     "weight": "500 ml - bottle",
-    "price": 4,
+    "price": 4.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h6e/hb7/8813530906654.jpg",
       "large": "https://product-images.metro.ca/images/h48/h25/8813532479518.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/l-entete-dunkel-bock/p/793573138132",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
-    "brand": "Les Brasseurs RJ",
-    "name": "Coup de Grisou spicy buckwheat beer on lees",
-    "weight": "750 ml - bottle",
-    "price": 5.25,
-    "image": {
-      "small": "https://product-images.metro.ca/images/hd5/h7c/8883442745374.jpg",
-      "large": "https://product-images.metro.ca/images/h88/ha4/8883443630110.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/coup-de-grisou-spicy-buckwheat-beer-on-lees/p/620114750020",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
@@ -5031,24 +5595,12 @@
     "brand": "Brasseurs du Monde",
     "name": "Le Seigneur Noir Imperial Stout",
     "weight": "341 ml - bottle",
-    "price": 3.69,
+    "price": 2.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h85/h44/8812687261726.jpg",
       "large": "https://product-images.metro.ca/images/h03/h92/8812688834590.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/le-seigneur-noir-imperial-stout/p/793573202604",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
-    "brand": "Goose Island",
-    "name": "India Pale Ale",
-    "weight": "473 ml - can",
-    "price": 3.49,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h4e/he5/8881886265374.jpg",
-      "large": "https://product-images.metro.ca/images/h15/h05/8881887051806.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/india-pale-ale/p/062067312359",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
@@ -5067,7 +5619,7 @@
     "brand": "Rolling Rock",
     "name": "Extra Pale Lager",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 7.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h54/h27/8881874698270.jpg",
       "large": "https://product-images.metro.ca/images/haa/h9f/8881875615774.jpg"
@@ -5091,7 +5643,7 @@
     "brand": "Creemore Springs",
     "name": "Lot 9 Pilsner",
     "weight": "6x341 ml - bottles",
-    "price": 9.99,
+    "price": 8.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hf6/he9/8814384971806.jpg",
       "large": "https://product-images.metro.ca/images/hde/h8d/8814386610206.jpg"
@@ -5127,7 +5679,7 @@
     "brand": "Sleeman",
     "name": "Railside Session Ale",
     "weight": "473 ml - can",
-    "price": 3.29,
+    "price": 2.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h06/h9d/8888716328990.jpg",
       "large": "https://product-images.metro.ca/images/h80/he2/8888718229534.jpg"
@@ -5136,22 +5688,10 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Les Brasseurs RJ",
-    "name": "Titanic strong beer on lees",
-    "weight": "750 ml - bottle",
-    "price": 5.25,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h26/h74/8811339513886.jpg",
-      "large": "https://product-images.metro.ca/images/ha4/ha5/8811341217822.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/titanic-strong-beer-on-lees/p/620114750068",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Brasseurs du Monde",
     "name": "Le Trinqueur Scotch Ale with coriander",
     "weight": "341 ml - bottle",
-    "price": 3.49,
+    "price": 2.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hef/h23/8811543592990.jpg",
       "large": "https://product-images.metro.ca/images/hb4/h5e/8811545198622.jpg"
@@ -5185,14 +5725,14 @@
   },
   {
     "brand": "St-Ambroise",
-    "name": "Pale Ale",
+    "name": "Oatmeal Stout",
     "weight": "473 ml - can",
-    "price": 2.5,
+    "price": 2.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h28/h39/8880786341918.jpg",
-      "large": "https://product-images.metro.ca/images/hea/h07/8880787226654.jpg"
+      "small": "https://product-images.metro.ca/images/h86/hc2/8880804036638.jpg",
+      "large": "https://product-images.metro.ca/images/hf9/hd6/8880804855838.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/pale-ale/p/055480041012",
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/oatmeal-stout/p/055480045010",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
@@ -5220,6 +5760,18 @@
     "category": "beverages/beer-cider/specialty-flavoured-beer"
   },
   {
+    "brand": "Shock Top",
+    "name": "Belgian White Ale",
+    "weight": "6x341 ml - bottles",
+    "price": 11.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h0f/h1d/8881834295326.jpg",
+      "large": "https://product-images.metro.ca/images/h69/hc7/8881835278366.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/specialty-flavoured-beer/belgian-white-ale/p/062067166037",
+    "category": "beverages/beer-cider/specialty-flavoured-beer"
+  },
+  {
     "brand": "Granville Island Brewing",
     "name": "English Bay Pale Ale",
     "weight": "473 ml - can",
@@ -5235,7 +5787,7 @@
     "brand": "Unibroue",
     "name": "Don de Dieu extra strong white Ale on lees",
     "weight": "6x341 ml - bottles",
-    "price": 14.99,
+    "price": 11.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h29/h0b/8811506761758.jpg",
       "large": "https://product-images.metro.ca/images/hf3/h28/8811508793374.jpg"
@@ -5247,7 +5799,7 @@
     "brand": "MadJack",
     "name": "Apple lager",
     "weight": "6x341 ml - bottles",
-    "price": 10.99,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hcb/hbc/8813763297310.jpg",
       "large": "https://product-images.metro.ca/images/h5d/h1b/8813765001246.jpg"
@@ -5283,7 +5835,7 @@
     "brand": "Bud Light",
     "name": "Apple flavoured beer",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hba/h66/8811317821470.jpg",
       "large": "https://product-images.metro.ca/images/hfc/h75/8811319394334.jpg"
@@ -5292,22 +5844,10 @@
     "category": "beverages/beer-cider/classic-light-beer"
   },
   {
-    "brand": "Les Trois Mousquetaires",
-    "name": "Série Signature Maibock strong blond Lager",
-    "weight": "750 ml - bottle",
-    "price": 6.79,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h20/hc9/8885001617438.jpg",
-      "large": "https://product-images.metro.ca/images/h80/h7e/8885002469406.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/maibock-strong-blond-lager/p/877839001207",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Brasseurs du Monde",
     "name": "Seiglerie rye Bitter",
     "weight": "500 ml - bottle",
-    "price": 4,
+    "price": 4.5,
     "image": {
       "small": "https://product-images.metro.ca/images/h8e/h29/8811925995550.jpg",
       "large": "https://product-images.metro.ca/images/hc7/hc7/8811927437342.jpg"
@@ -5328,28 +5868,40 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Microbrasserie Le Grimoire",
-    "name": "Goliath cognac brown beer",
-    "weight": "500 ml - bottle",
-    "price": 6.49,
+    "brand": "Le Petit St-Hil",
+    "name": "Carbonated sparkling cider",
+    "weight": "750 ml",
+    "price": 9.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h7b/hb8/8880697311262.jpg",
-      "large": "https://product-images.metro.ca/images/h1b/h00/8880698163230.jpg"
+      "small": "https://product-images.metro.ca/images/had/h3e/8887983538206.jpg",
+      "large": "https://product-images.metro.ca/images/h3a/h66/8887985176606.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/goliath-cognac-brown-beer/p/811343003074",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/carbonated-sparkling-cider/p/841125073292",
+    "category": "beverages/beer-cider/cider"
   },
   {
     "brand": "Brasseurs du Monde",
     "name": "Blonde Czech inspired beer",
     "weight": "355 ml - can",
-    "price": 1.99,
+    "price": 1.65,
     "image": {
       "small": "https://product-images.metro.ca/images/had/h94/8912925392926.jpg",
       "large": "https://product-images.metro.ca/images/h76/h11/8912927162398.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/blonde-czech-inspired-beer/p/629059105704",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Michel Jodoin",
+    "name": "White Vista Bella non-alcoholic sparkling apple must",
+    "weight": "750 ml",
+    "price": 4.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h60/ha2/8905917890590.jpg",
+      "large": "https://product-images.metro.ca/images/ha8/h6a/8905919856670.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/white-vista-bella-non-alcoholic-sparkling-apple-must/p/609780011277",
+    "category": "beverages/beer-cider/cider"
   },
   {
     "brand": "Microbrasserie Le Grimoire",
@@ -5376,25 +5928,13 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Brasserie Dieu du Ciel!",
-    "name": "Route des épices rye beer",
-    "weight": "341 ml - bottle",
-    "price": 2.29,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h26/h4d/8905624748062.jpg",
-      "large": "https://product-images.metro.ca/images/he3/h99/8905626583070.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/route-des-epices-rye-beer/p/689076126281",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "MadJack",
     "name": "Crazy Good Mixer Pack",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h86/h8a/8881484660766.jpg",
-      "large": "https://product-images.metro.ca/images/hf3/ha0/8881485545502.jpg"
+      "small": "https://product-images.metro.ca/images/ha0/ha1/8950069100574.jpg",
+      "large": "https://product-images.metro.ca/images/hb1/h02/8950069952542.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/crazy-good-mixer-pack/p/056327010963",
     "category": "beverages/beer-cider/cider"
@@ -5403,10 +5943,10 @@
     "brand": "Sapporo",
     "name": "Japanese Lager",
     "weight": "6x341 ml - bottles",
-    "price": 12.99,
+    "price": 8.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/he4/h67/8886762831902.jpg",
-      "large": "https://product-images.metro.ca/images/hd3/h7d/8886764994590.jpg"
+      "small": "https://product-images.metro.ca/images/ha7/he5/8910635106334.jpg",
+      "large": "https://product-images.metro.ca/images/h17/h1a/8910636023838.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/japanese-lager/p/056910600106",
     "category": "beverages/beer-cider/imported-beer"
@@ -5429,35 +5969,11 @@
     "weight": "710 ml - can",
     "price": 3.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h0b/h8f/8888096849950.jpg",
-      "large": "https://product-images.metro.ca/images/hf3/h24/8888098324510.jpg"
+      "small": "https://product-images.metro.ca/images/h5d/h2f/8910661222430.jpg",
+      "large": "https://product-images.metro.ca/images/hd1/h81/8910662041630.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/056327006010",
     "category": "beverages/beer-cider/classic-beer"
-  },
-  {
-    "brand": "Mad & Nosiy Brewing",
-    "name": "Hops Bolts® India Pale Lager",
-    "weight": "6x341 ml - bottles",
-    "price": 9.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h59/h2a/8811327258654.jpg",
-      "large": "https://product-images.metro.ca/images/he0/h19/8811329421342.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/hops-bolts-india-pale-lager/p/627005500061",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
-    "brand": "Les Trois Mousquetaires",
-    "name": "Série Signature Amber American Pale Ale",
-    "weight": "375 ml - bottle",
-    "price": 3.29,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h2d/h6f/8888709382174.jpg",
-      "large": "https://product-images.metro.ca/images/h61/h3e/8888711151646.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/amber-american-pale-ale/p/877839002396",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Molson Exel",
@@ -5484,18 +6000,6 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
-    "brand": "Brasseurs du Temps",
-    "name": "Le Bouillon de la Chaudière Weizen",
-    "weight": "341 ml - bottle",
-    "price": 2.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h1e/h0b/8888045076510.jpg",
-      "large": "https://product-images.metro.ca/images/h8f/h10/8888046845982.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/le-bouillon-de-la-chaudiere-weizen/p/771815001284",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Coors",
     "name": "Banquet Lager",
     "weight": "473 ml - can",
@@ -5520,22 +6024,22 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
-    "brand": "Brasseurs du Temps",
-    "name": "Carpe Diem Belgian style IPA",
-    "weight": "341 ml - bottle",
-    "price": 2.99,
+    "brand": "Le Petit St-Hil",
+    "name": "Carbonated sparkling raspberry flavoured cider",
+    "weight": "750 ml",
+    "price": 9.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/he8/ha0/8888756240414.jpg",
-      "large": "https://product-images.metro.ca/images/hc1/he0/8888757780510.jpg"
+      "small": "https://product-images.metro.ca/images/h81/haf/8888327602206.jpg",
+      "large": "https://product-images.metro.ca/images/hce/h2b/8888329306142.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/carpe-diem-belgian-style-ipa/p/771815001185",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/carbonated-sparkling-raspberry-flavoured-cider/p/841125073339",
+    "category": "beverages/beer-cider/cider"
   },
   {
     "brand": "Brasseur de Montréal",
     "name": "Griffintown blonde beer",
     "weight": "341 ml - bottle",
-    "price": 2.49,
+    "price": 1.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h65/h8e/8883398246430.jpg",
       "large": "https://product-images.metro.ca/images/ha9/hcd/8883399196702.jpg"
@@ -5556,6 +6060,18 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
+    "brand": "Kronenbourg 1664",
+    "name": "Blanc flavoured wheat beer",
+    "weight": "12x330 ml - bottles",
+    "price": 19.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h16/h68/8812708429854.jpg",
+      "large": "https://product-images.metro.ca/images/hcf/h8f/8812710199326.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/blanc-flavoured-wheat-beer/p/3080216041599",
+    "category": "beverages/beer-cider/imported-beer"
+  },
+  {
     "brand": "Le Bilboquet",
     "name": "Colonel Cornwallis India Pale Ale",
     "weight": "500 ml - bottle",
@@ -5571,7 +6087,7 @@
     "brand": "Krombacher",
     "name": "Pils beer",
     "weight": "6x330 ml - bottles",
-    "price": 11.99,
+    "price": 12.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h59/h2b/8884986118174.jpg",
       "large": "https://product-images.metro.ca/images/hf1/h9e/8884987002910.jpg"
@@ -5580,40 +6096,16 @@
     "category": "beverages/beer-cider/imported-beer"
   },
   {
-    "brand": "Creemore Springs",
-    "name": "Kölsch style Ale",
-    "weight": "6x341 ml - bottles",
-    "price": 9.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/he2/hf1/8883461259294.jpg",
-      "large": "https://product-images.metro.ca/images/h52/h26/8883462176798.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/kolsch-style-ale/p/627005044169",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Tecate",
     "name": "Mexican beer",
     "weight": "4x473 ml - cans",
-    "price": 8.99,
+    "price": 7.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hb0/h8b/8884993490974.jpg",
       "large": "https://product-images.metro.ca/images/hb5/h68/8884994342942.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/mexican-beer/p/7501061671138",
     "category": "beverages/beer-cider/imported-beer"
-  },
-  {
-    "brand": "Dublin's Pub",
-    "name": "Irish pub-style red apple cider",
-    "weight": "4x355 ml",
-    "price": 8.49,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h97/h09/8811252023326.jpg",
-      "large": "https://product-images.metro.ca/images/h27/h8e/8811253727262.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/irish-pub-style-red-apple-cider/p/067311763222",
-    "category": "beverages/beer-cider/cider"
   },
   {
     "brand": "Le Bilboquet",
@@ -5631,7 +6123,7 @@
     "brand": "Sleeman",
     "name": "Light beer",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hdb/h7d/8897766195230.jpg",
       "large": "https://product-images.metro.ca/images/hde/h51/8897767964702.jpg"
@@ -5652,10 +6144,22 @@
     "category": "beverages/beer-cider/classic-light-beer"
   },
   {
+    "brand": "Le Petit St-Hil",
+    "name": "Carbonated sparkling pear flavoured cider",
+    "weight": "750 ml",
+    "price": 9.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h6a/h85/8888649285662.jpg",
+      "large": "https://product-images.metro.ca/images/he0/h58/8888650989598.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/carbonated-sparkling-pear-flavoured-cider/p/841125073230",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
     "brand": "Brasseur de Montréal",
     "name": "Rebelle strong beer",
     "weight": "341 ml - bottle",
-    "price": 2.49,
+    "price": 1.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h01/ha7/8883398475806.jpg",
       "large": "https://product-images.metro.ca/images/h87/h8b/8883399393310.jpg"
@@ -5676,34 +6180,22 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Bud Light",
-    "name": "Apple flavoured beer",
-    "weight": "6x355 ml - cans",
-    "price": 10.99,
+    "brand": "Sleeman",
+    "name": "Silver Creek Lager",
+    "weight": "12x355 ml - cans",
+    "price": 15.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h79/hd5/8881872896030.jpg",
-      "large": "https://product-images.metro.ca/images/h16/hff/8881873780766.jpg"
+      "small": "https://product-images.metro.ca/images/h34/h80/8912009035806.jpg",
+      "large": "https://product-images.metro.ca/images/hfa/h55/8912010739742.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-light-beer/apple-flavoured-beer/p/062067566349",
-    "category": "beverages/beer-cider/classic-light-beer"
-  },
-  {
-    "brand": "Brasseurs du Temps",
-    "name": "Diable au Corps Imperial India Pale Ale",
-    "weight": "341 ml - bottle",
-    "price": 2.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h51/h31/8911029665822.jpg",
-      "large": "https://product-images.metro.ca/images/h57/he2/8911031435294.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/diable-au-corps-imperial-india-pale-ale/p/771815001383",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/silver-creek-lager/p/056910111121",
+    "category": "beverages/beer-cider/classic-beer"
   },
   {
     "brand": "Sleeman",
     "name": "Railside Session Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h68/h16/8881445928990.jpg",
       "large": "https://product-images.metro.ca/images/ha1/hd6/8881446879262.jpg"
@@ -5715,7 +6207,7 @@
     "brand": "Sleeman",
     "name": "Railside Session Ale",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hdf/hfa/8881432854558.jpg",
       "large": "https://product-images.metro.ca/images/h49/h66/8881433870366.jpg"
@@ -5724,22 +6216,10 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Goose Island",
-    "name": "Rambler IPA",
-    "weight": "473 ml - can",
-    "price": 3.49,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h2b/hc8/8919325016094.jpg",
-      "large": "https://product-images.metro.ca/images/h47/h44/8919326621726.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/rambler-ipa/p/062067315350",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
     "brand": "Brasseurs du Monde",
     "name": "Ale de Hardy barley wine",
     "weight": "341 ml - bottle",
-    "price": 3.49,
+    "price": 2.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hbc/hfb/8813151846430.jpg",
       "large": "https://product-images.metro.ca/images/hd4/h56/8813153484830.jpg"
@@ -5775,7 +6255,7 @@
     "brand": "Alexander Keith's",
     "name": "Premium White Ale",
     "weight": "12x341 ml - bottles",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h5b/h5b/8813588906014.jpg",
       "large": "https://product-images.metro.ca/images/hc1/h8c/8813591068702.jpg"
@@ -5796,22 +6276,10 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Miller Lite",
-    "name": "Light Pilsner",
-    "weight": "473 ml - can",
-    "price": 2.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/he4/h3d/8880806527006.jpg",
-      "large": "https://product-images.metro.ca/images/hd2/h00/8880807378974.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-light-beer/light-pilsner/p/034100003579",
-    "category": "beverages/beer-cider/classic-light-beer"
-  },
-  {
     "brand": "Dos Equis",
     "name": "Mexican Lager",
     "weight": "24x355 ml - bottles",
-    "price": 33.99,
+    "price": 36.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h41/hf4/8811697405982.jpg",
       "large": "https://product-images.metro.ca/images/h63/heb/8811699044382.jpg"
@@ -5821,14 +6289,14 @@
   },
   {
     "brand": "Brasseur de Montréal",
-    "name": "London Ruby light beer",
+    "name": "London Ruby Mild Ale",
     "weight": "341 ml - bottle",
-    "price": 2.49,
+    "price": 1.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h5b/hf8/8883406012446.jpg",
       "large": "https://product-images.metro.ca/images/h08/h54/8883406864414.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/london-ruby-light-beer/p/629255102019",
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/london-ruby-mild-ale/p/629255102019",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
@@ -5861,8 +6329,8 @@
     "weight": "6x341 ml - bottles",
     "price": 12.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hfa/hb9/8888544624670.jpg",
-      "large": "https://product-images.metro.ca/images/h81/h39/8888546525214.jpg"
+      "small": "https://product-images.metro.ca/images/h2e/h69/8910703722526.jpg",
+      "large": "https://product-images.metro.ca/images/h96/h71/8910704672798.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/tankhouse-ale/p/855315000074",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
@@ -5890,6 +6358,18 @@
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/coup-de-canon-black-beer-brewed-with-coffee/p/628190000602",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Coors",
+    "name": "Banquet Lager",
+    "weight": "24x355 ml - cans",
+    "price": 32.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h6d/hbe/8882197331998.jpg",
+      "large": "https://product-images.metro.ca/images/h39/h52/8882198282270.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/lager/p/071990100261",
+    "category": "beverages/beer-cider/classic-beer"
   },
   {
     "brand": "Le Bilboquet",
@@ -5928,6 +6408,18 @@
     "category": "beverages/beer-cider/classic-light-beer"
   },
   {
+    "brand": "Le Petit St-Hil",
+    "name": "Carbonated crackling pear cider",
+    "weight": "4x355 ml",
+    "price": 12.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hfc/h0d/8888106483742.jpg",
+      "large": "https://product-images.metro.ca/images/h22/hc7/8888108154910.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/carbonated-crackling-pear-cider/p/841125073247",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
     "brand": "Alchimiste",
     "name": "Eisbock™ strong beer",
     "weight": "341 ml - bottle",
@@ -5943,7 +6435,7 @@
     "brand": "Miller Lite",
     "name": "Light Pilsner",
     "weight": "24x355 ml - bottles",
-    "price": 30.99,
+    "price": 24.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h38/h2d/8919546298398.jpg",
       "large": "https://product-images.metro.ca/images/h91/h6f/8919548067870.jpg"
@@ -5955,24 +6447,12 @@
     "brand": "St-Ambroise",
     "name": "Red Ale",
     "weight": "6x341 ml - bottles",
-    "price": 10.79,
+    "price": 9.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h51/h63/8906018488350.jpg",
       "large": "https://product-images.metro.ca/images/h7a/h47/8906020126750.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/red-ale/p/055480001023",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
-  },
-  {
-    "brand": "St-Ambroise",
-    "name": "Scotch Ale season beer",
-    "weight": "4x341 ml - bottles",
-    "price": 9.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h24/h21/8939643961374.jpg",
-      "large": "https://product-images.metro.ca/images/h4b/h71/8939645599774.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/scotch-ale-season-beer/p/055480002044",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
@@ -6000,28 +6480,28 @@
     "category": "beverages/beer-cider/classic-beer"
   },
   {
-    "brand": "Beaupré",
-    "name": "Sparkling cider",
-    "weight": "750 ml",
-    "price": 8.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h02/h34/8814057685022.jpg",
-      "large": "https://product-images.metro.ca/images/hab/h1d/8814059323422.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/wines-cocktails-coolers/sparkling-wine/sparkling-cider/p/629130800047",
-    "category": "beverages/wines-cocktails-coolers/sparkling-wine"
-  },
-  {
     "brand": "Dos Equis",
     "name": "Mexican Lager",
     "weight": "4x473 ml - cans",
-    "price": 9.99,
+    "price": 12.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h8f/he0/8811334795294.jpg",
       "large": "https://product-images.metro.ca/images/h66/hdf/8811336564766.jpg"
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/imported-beer/mexican-lager/p/7501049932046",
     "category": "beverages/beer-cider/imported-beer"
+  },
+  {
+    "brand": "Brasseurs du Monde",
+    "name": "Blanche European inspired beer",
+    "weight": "355 ml - can",
+    "price": 1.65,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h61/h0e/8912913596446.jpg",
+      "large": "https://product-images.metro.ca/images/hd9/he8/8912915300382.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/blanche-european-inspired-beer/p/629059105711",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
     "brand": "Mill St. Brewery",
@@ -6039,7 +6519,7 @@
     "brand": "Goose Island",
     "name": "Honkers Ale English style bitter",
     "weight": "12x341 ml - bottles",
-    "price": 19.99,
+    "price": 16.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h09/h80/8881882038302.jpg",
       "large": "https://product-images.metro.ca/images/h7e/h9c/8881882988574.jpg"
@@ -6096,22 +6576,22 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
-    "brand": "Brasseurs du Temps",
-    "name": "Dumduminator Doppelweizenbock",
-    "weight": "341 ml - bottle",
-    "price": 2.99,
+    "brand": "Domaine Côtes d'Ardoise",
+    "name": "La Pomelière Ice cider",
+    "weight": "375 ml",
+    "price": 17.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/hd7/h46/8888191549470.jpg",
-      "large": "https://product-images.metro.ca/images/hc2/h85/8888193253406.jpg"
+      "small": "https://product-images.metro.ca/images/hf9/h5d/8934600572958.jpg",
+      "large": "https://product-images.metro.ca/images/h82/hfe/8934602014750.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/dumduminator-doppelweizenbock/p/771815001086",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/ice-cider/p/827924003135",
+    "category": "beverages/beer-cider/cider"
   },
   {
     "brand": "Bud Light",
     "name": "Apple flavoured light beer",
     "weight": "12x355 ml - cans",
-    "price": 16.99,
+    "price": 15.99,
     "image": {
       "small": "https://product-images.metro.ca/images/h78/h5a/8881843503134.jpg",
       "large": "https://product-images.metro.ca/images/hf7/hd9/8881844420638.jpg"
@@ -6123,7 +6603,7 @@
     "brand": "Rolling Rock",
     "name": "Extra Pale Lager",
     "weight": "473 ml - can",
-    "price": 2.99,
+    "price": 1.99,
     "image": {
       "small": "https://product-images.metro.ca/images/hbe/h9a/8881869062174.jpg",
       "large": "https://product-images.metro.ca/images/h4c/h85/8881869979678.jpg"
@@ -6156,6 +6636,42 @@
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
+    "brand": "Brasseurs du Monde",
+    "name": "Rousse Irish inspired Ale",
+    "weight": "355 ml - can",
+    "price": 1.65,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h7f/hc6/8912801398814.jpg",
+      "large": "https://product-images.metro.ca/images/h5b/h20/8912803168286.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/rousse-irish-inspired-ale/p/629059105728",
+    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
+  },
+  {
+    "brand": "Le Petit St-Hil",
+    "name": "Carbonated crackling cider",
+    "weight": "4x355 ml",
+    "price": 11.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/h2c/h0c/8888240963614.jpg",
+      "large": "https://product-images.metro.ca/images/h51/hd4/8888242864158.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/carbonated-crackling-cider/p/841125073308",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
+    "brand": "Le Petit St-Hil",
+    "name": "Carbonated crackling raspberry cider",
+    "weight": "4x355 ml",
+    "price": 12.99,
+    "image": {
+      "small": "https://product-images.metro.ca/images/hb8/h6e/8888475222046.jpg",
+      "large": "https://product-images.metro.ca/images/h7b/h47/8888476991518.jpg"
+    },
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/cider/carbonated-crackling-raspberry-cider/p/841125073315",
+    "category": "beverages/beer-cider/cider"
+  },
+  {
     "brand": "Cidrerie St-Nicolas",
     "name": "Le Vire Crêpe cider",
     "weight": "750 ml",
@@ -6168,15 +6684,15 @@
     "category": "beverages/beer-cider/cider"
   },
   {
-    "brand": "Goose Island",
-    "name": "Sofie Belgian style farmhouse Ale",
-    "weight": "765 ml",
-    "price": 9.99,
+    "brand": "Granville Island Brewing",
+    "name": "False Creek Raspberry Ale®",
+    "weight": "6x341 ml - bottles",
+    "price": 8.99,
     "image": {
-      "small": "https://product-images.metro.ca/images/h4a/h2c/8883919224862.jpg",
-      "large": "https://product-images.metro.ca/images/h40/h66/8883920109598.jpg"
+      "small": "https://product-images.metro.ca/images/hfc/h8e/8880698228766.jpg",
+      "large": "https://product-images.metro.ca/images/h0d/h5e/8880699179038.jpg"
     },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/sofie-belgian-style-farmhouse-ale/p/736920113338",
+    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/false-creek-raspberry-ale/p/779446200328",
     "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   },
   {
@@ -6202,17 +6718,5 @@
     },
     "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/classic-beer/railside-session-ale/p/056910240067",
     "category": "beverages/beer-cider/classic-beer"
-  },
-  {
-    "brand": "Brasseurs du Monde",
-    "name": "Dark Ale with berries",
-    "weight": "500 ml - bottle",
-    "price": 5.99,
-    "image": {
-      "small": "https://product-images.metro.ca/images/h3a/h71/8811554799646.jpg",
-      "large": "https://product-images.metro.ca/images/h07/h34/8811556372510.jpg"
-    },
-    "link": "https://www.metro.ca/en/online-grocery/aisles/beverages/beer-cider/artisanal-beer-microbrewery/dark-ale-with-berries/p/629059105278",
-    "category": "beverages/beer-cider/artisanal-beer-microbrewery"
   }
 ]
